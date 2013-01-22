@@ -8,7 +8,7 @@
     \textsc{\Large Honous Project, 2013}\\[0.5cm]
     \textit{Jointly supervised by Justin Borevitz and Barry Pogson}\\
     \vfill
-    \textit{\Large Last updated \currenttime}\\
+    \textit{Last updated at \currenttime on \today}\\
   \end{center}
 \end{titlepage}
 
