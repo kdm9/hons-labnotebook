@@ -14,30 +14,30 @@
 
 
 \labday{2013-01-21}
-\experiment{Practice RNA Exraction}
-  \subexperiment{Quantification of RNA samples}
+  \experiment{Practice RNA Exraction}
+    \subexperiment{Quantification of RNA samples}
 
-  \emph{Aim}
-  \begin{itemize}
-    \item Deterime qty of RNA in previously extracted samples
-  \end{itemize}
+    \emph{Aim}
+    \begin{itemize}
+      \item Deterime qty of RNA in previously extracted samples
+    \end{itemize}
 
-  \emph{Method}
-  \begin{itemize}
-    \item Nanodropped RNA exraction from 15/1/13??
-    \item Standard protocol, used sterile milliQ water as blank.
-  \end{itemize}
+    \emph{Method}
+    \begin{itemize}
+      \item Nanodropped RNA exraction from 15/1/13??
+      \item Standard protocol, used sterile milliQ water as blank.
+    \end{itemize}
 
-  \emph{Result}
-  \begin{itemize}
-    \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
-      (see ./jan/20130121-PracticeRNASamples.ods)
-  \end{itemize}
-  \emph{Attachements}
-  \begin{itemize}
-    \item ./jan/20130121-PracticeRNAExtractionSamples.csv
-    \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
-    \item ./jan/20130121-PracticeRNASamples.ods
-  \end{itemize}
+    \emph{Result}
+    \begin{itemize}
+      \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
+        (see ./jan/20130121-PracticeRNASamples.ods)
+    \end{itemize}
+    \emph{Attachements}
+    \begin{itemize}
+      \item ./jan/20130121-PracticeRNAExtractionSamples.csv
+      \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
+      \item ./jan/20130121-PracticeRNASamples.ods
+    \end{itemize}
 
 \end{document}
