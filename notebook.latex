@@ -40,4 +40,25 @@
       \item ./jan/20130121-PracticeRNASamples.ods
     \end{itemize}
 
+  \experiment{MADE: 10x MOPS Solution}
+    \emph{Method}
+    \begin{itemize}
+      \item Add 41.8g RNA only MOPS to beaker
+      \item Add ~450mL DEPC H2O, mix w/ stirrer bar on mag stirrer
+      \item Add 26.6mL 3M Sodium Acetate (0.22um Filtered before use)
+      \item Add 10mL RNA only 0.5M EDTA
+      \item pH to 7 with 5M NaOH
+      \item Top up to 500 mL with DEPC H2O
+      \item Use 10ml per 100mL MOPS gel
+    \end{itemize}
+
+  \experiment{MADE: RNA Denaturing Gel (MOPS)}
+    \emph{Method}
+    \begin{itemize}
+      \item Melt 1g RNAse-free Agarose in 72ml DEPC H2O
+      \item Add 10mL 10x MOPS
+      \item Add 18mL 37\% Formaldehyde
+      \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAse-zap
+    \end{itemize}
+
 \end{document}
