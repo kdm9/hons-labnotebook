@@ -1,5 +1,6 @@
 \documentclass[12pt,a4paper]{labbook}
 \usepackage{datetime}
+\usepackage{graphicx}
 \usepackage[margin=1.5cm]{geometry}
 \begin{document}
 \setlength{\parindent}{0cm}
@@ -63,5 +64,45 @@
       \item Add 18mL 37\% Formaldehyde
       \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAse-zap
     \end{itemize}
+
+\labday{Tue 2013-01-22}
+  \experiment{RNA Sample Gels}
+    \subexperiment{Denature RNA for RNA gels}
+      \emph{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Dilute RNA to 100ng/uL
+        \item Add RNA gel loading buffer (Obtained from Pete Crisp)
+        \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on the evening of
+          2013-01-21, but the gels were not run until 2013-01-22, so they were denatured for a futher 2 minutes at 65
+          degrees
+      \end{itemize}
+
+    \subexperiment{TBE Gel}
+      \emph{Aim}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item To compare TBE and denaturing/MOPS gels for RNA
+      \end{itemize}
+
+      \emph{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Dissolve 1g RNAase-free agarose in 90mL DEPC water
+        \item Add 10mL RNAse-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
+        \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAse-zap
+        \item Then, load denatured samples, and run in RNAse-free 1x TBE
+      \end{itemize}
+
+      \emph{Result}\\
+      \begin{figure}[h!]
+        \caption{TBE Gel of Practice RNA samples, 2013-01-22}
+        \centering
+          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNATBE}
+        \label{fig:20130122-PracticeRNATBE}
+      \end{figure}
+      See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
+      Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to right) A2, A3, A5,
+      A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a misloading error. Overall, the TBE gel
+      appears to be of more use than the MOPS gel.\\
+
+
 
 \end{document}
