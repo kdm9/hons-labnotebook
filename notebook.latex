@@ -18,23 +18,24 @@
     \subexperiment{Quantification of RNA samples}
 
     \emph{Aim}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Deterime qty of RNA in previously extracted samples
     \end{itemize}
 
     \emph{Method}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Nanodropped RNA exraction from 15/1/13??
       \item Standard protocol, used sterile milliQ water as blank.
     \end{itemize}
 
     \emph{Result}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
         (see ./jan/20130121-PracticeRNASamples.ods)
     \end{itemize}
+
     \emph{Attachements}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item ./jan/20130121-PracticeRNAExtractionSamples.csv
       \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
       \item ./jan/20130121-PracticeRNASamples.ods
@@ -42,7 +43,7 @@
 
   \experiment{MADE: 10x MOPS Solution}
     \emph{Method}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Add 41.8g RNA only MOPS to beaker
       \item Add ~450mL DEPC H2O, mix w/ stirrer bar on mag stirrer
       \item Add 26.6mL 3M Sodium Acetate (0.22um Filtered before use)
@@ -54,7 +55,7 @@
 
   \experiment{MADE: RNA Denaturing Gel (MOPS)}
     \emph{Method}
-    \begin{itemize}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Melt 1g RNAse-free Agarose in 72ml DEPC H2O
       \item Add 10mL 10x MOPS
       \item Add 18mL 37\% Formaldehyde
