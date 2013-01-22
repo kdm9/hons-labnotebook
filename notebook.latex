@@ -2,6 +2,8 @@
 \usepackage{datetime}
 \usepackage[margin=1.5cm]{geometry}
 \begin{document}
+\setlength{\parindent}{0cm}
+
 \begin{titlepage}
   \begin{center}
     \textsc{\LARGE Digital Lab Notebook of Kevin Murray}\\[1.5cm]
