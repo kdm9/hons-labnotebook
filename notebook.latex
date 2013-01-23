@@ -17,32 +17,30 @@
 
 
 \labday{Mon 2013-01-21}
-  \experiment{Practice RNA Exraction}
-    \subexperiment{Quantification of RNA samples}
+  \experiment{Quantification of RNA samples}
+    \subexperiment{Aim}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Deterime qty of RNA in previously extracted samples
+      \end{itemize}
 
-    \emph{Aim}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Deterime qty of RNA in previously extracted samples
-    \end{itemize}
+    \subexperiment{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Nanodropped RNA exraction from 15/1/13??
+        \item Standard protocol, used sterile milliQ water as blank.
+      \end{itemize}
 
-    \emph{Method}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Nanodropped RNA exraction from 15/1/13??
-      \item Standard protocol, used sterile milliQ water as blank.
-    \end{itemize}
+    \subexperiment{Result}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
+          (see ./jan/20130121-PracticeRNASamples.ods)
+      \end{itemize}
 
-    \emph{Result}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
-        (see ./jan/20130121-PracticeRNASamples.ods)
-    \end{itemize}
-
-    \emph{Attachements}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item ./jan/20130121-PracticeRNAExtractionSamples.csv
-      \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
-      \item ./jan/20130121-PracticeRNASamples.ods
-    \end{itemize}
+    \subexperiment{Attachements}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item ./jan/20130121-PracticeRNAExtractionSamples.csv
+        \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
+        \item ./jan/20130121-PracticeRNASamples.ods
+      \end{itemize}
 
   \experiment{MADE: 10x MOPS Solution}
     \emph{Method}
@@ -66,9 +64,8 @@
     \end{itemize}
 
 \labday{Tue 2013-01-22}
-  \experiment{RNA Sample Gels}
-    \subexperiment{Denature RNA for RNA gels}
-      \emph{Method}
+  \experiment{Denature RNA for RNA gels}
+    \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Dilute RNA to 100ng/uL
         \item Add RNA gel loading buffer (Obtained from Pete Crisp)
@@ -77,13 +74,13 @@
           degrees
       \end{itemize}
 
-    \subexperiment{TBE Gel}
-      \emph{Aim}
+  \experiment{TBE Gel}
+    \subexperiment{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item To compare TBE and denaturing/MOPS gels for RNA
       \end{itemize}
 
-      \emph{Method}
+    \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Dissolve 1g RNAase-free agarose in 90mL DEPC water
         \item Add 10mL RNAse-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
@@ -93,7 +90,7 @@
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
       \end{itemize}
 
-      \emph{Result}\\
+    \subexperiment{Result}
       \begin{figure}[h!]
         \caption{TBE Gel of Practice RNA samples, 2013-01-22}
         \centering
@@ -105,13 +102,13 @@
       A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a misloading error. Overall, the TBE gel
       appears to be of more use than the MOPS gel.\\
 
-    \subexperiment{MOPS gel}
-      \emph{Aim}\
+  \experiment{MOPS gel}
+    \subexperiment{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Determine qualtiy of RNA and Compare MOPS with TBE for RNA gels
       \end{itemize}
 
-      \emph{Method}\\
+    \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
         \item Run gel in RNAse free 1x MOPS at &\approx& 80V, &\approx& 100mA for &\approx& 1.75h as per TBE gel above.
@@ -119,7 +116,7 @@
         \item Destain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst destaining.
       \end{itemize}
 
-      \emph{Results}\\
+    \subexperiment{Results}
       \begin{figure}[h!]
         \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
         \centering
