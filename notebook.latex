@@ -89,6 +89,8 @@
         \item Add 10mL RNAse-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
         \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAse-zap
         \item Then, load denatured samples, and run in RNAse-free 1x TBE
+        \item Run at &\approx& 80V, &\approx& 40-50mA for &\approx& 1.75h
+        \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
       \end{itemize}
 
       \emph{Result}\\
@@ -102,6 +104,40 @@
       Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to right) A2, A3, A5,
       A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a misloading error. Overall, the TBE gel
       appears to be of more use than the MOPS gel.\\
+
+    \subexperiment{MOPS gel}
+      \emph{Aim}\
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Determine qualtiy of RNA and Compare MOPS with TBE for RNA gels
+      \end{itemize}
+
+      \emph{Method}\\
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
+        \item Run gel in RNAse free 1x MOPS at &\approx& 80V, &\approx& 100mA for &\approx& 1.75h as per TBE gel above.
+        \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
+        \item Destain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst destaining.
+      \end{itemize}
+
+      \emph{Results}\\
+      \begin{figure}[h!]
+        \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
+        \centering
+          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS}
+        \label{fig:20130122-PracticeRNADenaturedMOPS}
+      \end{figure}
+
+      \begin{figure}[h!]
+        \caption{MOPS Gel of Practice RNA samples, 2013-01-22. Contrast adjusted.}
+        \centering
+          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS_HighContrast}
+        \label{fig:20130122-PracticeRNADenaturedMOPS_HighContrast}
+      \end{figure}
+
+      See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
+      \ref{fig:20130122-PracticeRNADenaturedMOPS_HighContrast}\\
+      Mops gel conifrms that the rna was of reasonable quality. The MOPS gel appears to be of less use than the TBE
+      gel.\\
 
 
 
