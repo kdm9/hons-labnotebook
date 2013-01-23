@@ -32,7 +32,7 @@
     \subexperiment{Result}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
-          (see ./jan/20130121-PracticeRNASamples.ods)
+        (see ./jan/20130121-PracticeRNASamples.ods)
       \end{itemize}
 
     \subexperiment{Attachements}
@@ -86,7 +86,7 @@
         \item Add 10mL RNAse-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
         \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAse-zap
         \item Then, load denatured samples, and run in RNAse-free 1x TBE
-        \item Run at &\approx& 80V, &\approx& 40-50mA for &\approx& 1.75h
+        \item Run at $\approx$ 80V, $\approx$ 40-50mA for $\approx$ 1.75h
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
       \end{itemize}
 
@@ -111,7 +111,7 @@
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
-        \item Run gel in RNAse free 1x MOPS at &\approx& 80V, &\approx& 100mA for &\approx& 1.75h as per TBE gel above.
+        \item Run gel in RNAse free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h as per TBE gel above.
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
         \item Destain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst destaining.
       \end{itemize}
