@@ -141,7 +141,7 @@
 \labday{Tue 2013-01-29}
   \experiment{Seed Stock Levels}
     The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
-    (+), limited(<) or no (-) seed. The levels of each line are shown in the table below.
+    (+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
     \csvautolongtable{jan/20130129-SeedStockLevels.csv}
 
 \end{document}
