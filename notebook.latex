@@ -2,6 +2,8 @@
 \usepackage{datetime}
 \usepackage{graphicx}
 \usepackage[margin=1.5cm]{geometry}
+\usepackage{csvsimple}
+\usepackage{longtable}
 \begin{document}
 \setlength{\parindent}{0cm}
 
@@ -136,6 +138,10 @@
       Mops gel conifrms that the rna was of reasonable quality. The MOPS gel appears to be of less use than the TBE
       gel.\\
 
-
+\labday{Tue 2013-01-29}
+  \experiment{Seed Stock Levels}
+    The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
+    (+), limited(<) or no (-) seed. The levels of each line are shown in the table below.
+    \csvautolongtable{jan/20130129-SeedStockLevels.csv}
 
 \end{document}
