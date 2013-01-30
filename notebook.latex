@@ -141,7 +141,7 @@
       \begin{figure}[h!]
         \caption{TBE Gel of Practice RNA samples, 2013-01-22}
         \centering
-          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNATBE}
+          \includegraphics[width=0.9\textwidth]{./jan/20130122-PracticeRNATBE}
         \label{fig:20130122-PracticeRNATBE}
       \end{figure}
       See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
@@ -167,14 +167,14 @@
       \begin{figure}[h!]
         \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
         \centering
-          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS}
+          \includegraphics[width=0.9\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS}
         \label{fig:20130122-PracticeRNADenaturedMOPS}
       \end{figure}
 
       \begin{figure}[h!]
         \caption{MOPS Gel of Practice RNA samples, 2013-01-22. Contrast adjusted.}
         \centering
-          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS-HighContrast}
+          \includegraphics[width=0.9\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS-HighContrast}
         \label{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}
       \end{figure}
 
