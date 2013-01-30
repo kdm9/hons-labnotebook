@@ -18,6 +18,28 @@
 \end{titlepage}
 
 
+\labday{Mon 2012-12-10}
+  \experiment{Final Harvest of Keng's RIX lines}
+    \subexperiment{Aim}
+      Harvest lines after 1 week of HL stress.
+    \subexperiment{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item An Eppendorf 1.2mL deep well plate was placed on dry ice for $\approx$ 10 minutes before
+          sampling to allow to cool.
+        \item Whole leaves were excised and placed into 1.2mL Eppendorf 96 deep well plate.
+        \item Where possible, the largest mature leaf was taken. In some cases, this was hard to
+          determine, so the youngest of the fully-expanded leaves was taken (as this was generally
+          also the largest leaf). Some plants were very small, and had only juvenile leaves, in which
+          case the largest juvenile leaf was taken.
+      \end{itemize}
+    \subexperiment{Results}
+    The following table describes the plate layout.
+    \csvautolongtable{dec12/20121210-FinalHarvest.csv}
+    \emph{Attachments:}
+    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+      \item dec12/20121210-harvest\_photos.tar.bz2 \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
+    \end{itemize}
+
 \labday{Mon 2013-01-21}
   \experiment{Quantification of RNA samples}
     \subexperiment{Aim}
