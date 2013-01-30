@@ -37,7 +37,7 @@
     \csvautolongtable{dec12/20121210-FinalHarvest.csv}
     \emph{Attachments:}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item dec12/20121210-harvest\_photos.tar.bz2 \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
+      \item dec12/20121210-harvest-photos.tar.bz2 \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
     \end{itemize}
 
 \labday{Mon 2013-01-14}
@@ -174,12 +174,12 @@
       \begin{figure}[h!]
         \caption{MOPS Gel of Practice RNA samples, 2013-01-22. Contrast adjusted.}
         \centering
-          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS_HighContrast}
-        \label{fig:20130122-PracticeRNADenaturedMOPS_HighContrast}
+          \includegraphics[width=0.4\textwidth]{./jan/20130122-PracticeRNADenaturedMOPS-HighContrast}
+        \label{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}
       \end{figure}
 
       See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
-      \ref{fig:20130122-PracticeRNADenaturedMOPS_HighContrast}\\
+      \ref{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}\\
       Mops gel conifrms that the rna was of reasonable quality. The MOPS gel appears to be of less use than the TBE
       gel.\\
 
