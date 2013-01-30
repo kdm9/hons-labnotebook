@@ -40,6 +40,29 @@
       \item dec12/20121210-harvest\_photos.tar.bz2 \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
     \end{itemize}
 
+\labday{Mon 2013-01-14}
+  \experiment{MAKE: Washed Ball Bearings}
+    \subexperiment{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Aliquot approx 15mL of 3mm diameter steel ball bearings into 50mL falcon tube
+        \item Add clean 100\% ethanol
+        \item Vortex for $\approx$ 5 minutes
+        \item Remove ethanol, wash beads with milliQ or sterile water
+        \item Dry in fume cupboard overnight
+      \end{itemize}
+
+  \experiment{Tissuelyser grinding of practice samples}
+    \subexperiment{Aims}
+      To grind tissue from the excess tissue of Keng's RIX lines collected on 3/12/12.
+    \subexperiment{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Remove pre-frozen tissuelyser blocks from -80 freezer.
+        \item Add one cleaned bead to each eppi tube (beads were not pre-cooled)
+        \item Pour LN$_2$ into the tissuelyser block
+        \item Add Eppies with beads and sample, and run for 3x 1min runs at 29hz
+        \item Replace samples in -80
+      \end{itemize}
+
 \labday{Mon 2013-01-21}
   \experiment{Quantification of RNA samples}
     \subexperiment{Aim}
