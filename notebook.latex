@@ -17,6 +17,23 @@
   \end{center}
 \end{titlepage}
 
+\labday{Mon 2012-12-03}
+  \experiment{Initial Harvest of Keng's RIX lines}
+    \subexperiment{Aim}
+      Harvest lines before the 1 week repeated HL stress experiment.
+    \subexperiment{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Tissue was harvested into a 96 well tray of 8-strip $\approx$ 1mL tubes
+        \item Single leaves were placed into the tubes, and snap frozen in liquid nitrogen.
+      \end{itemize}
+    \subexperiment{Results}
+      The following table details the collection, including the plate layout
+      \csvautolongtable{dec12/20121203-InitialHarvest.csv}
+      \emph{Attachments:}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item dec12\/20121203-harvest-pictures.tar.bz2 \hfill
+          MD5SUM:2843946f8cae888a60dcd2226feb874f
+      \end{itemize}
 
 \labday{Mon 2012-12-10}
   \experiment{Final Harvest of Keng's RIX lines}
