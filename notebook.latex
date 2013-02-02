@@ -31,7 +31,7 @@
       \csvautolongtable{dec12/20121203-InitialHarvest.csv}
       \emph{Attachments:}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item dec12\/20121203-harvest-pictures.tar.bz2 \hfill
+        \item dec12/20121203-harvest-pictures.tar.bz2 \hfill
           MD5SUM:2843946f8cae888a60dcd2226feb874f
       \end{itemize}
 
