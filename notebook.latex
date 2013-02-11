@@ -10,7 +10,7 @@
 \begin{titlepage}
   \begin{center}
     \textsc{\LARGE Digital Lab Notebook of Kevin Murray}\\[1.5cm]
-    \textsc{\Large Honous Project, 2013}\\[0.5cm]
+    \textsc{\Large Honours Project, 2013}\\[0.5cm]
     \textit{Jointly supervised by Justin Borevitz and Barry Pogson}\\
     \vfill
     \textit{Last updated at \currenttime on \today}\\
@@ -68,15 +68,15 @@
         \item Dry in fume cupboard overnight
       \end{itemize}
 
-  \experiment{Tissuelyser grinding of practice samples}
+  \experiment{TissueLyser grinding of practice samples}
     \subexperiment{Aims}
       To grind tissue from the excess tissue of Keng's RIX lines collected on 3/12/12.
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Remove pre-frozen tissuelyser blocks from -80 freezer.
-        \item Add one cleaned bead to each eppi tube (beads were not pre-cooled)
-        \item Pour LN$_2$ into the tissuelyser block
-        \item Add Eppies with beads and sample, and run for 3x 1min runs at 29hz
+        \item Remove pre-frozen TissueLyser blocks from -80 freezer.
+        \item Add one cleaned bead to each Eppendorf tube (beads were not pre-cooled)
+        \item Pour LN$_2$ into the TissueLyser block
+        \item Add Eppys with beads and sample, and run for 3x 1min runs at 29Hz
         \item Replace samples in -80
       \end{itemize}
 
@@ -84,12 +84,12 @@
   \experiment{Quantification of RNA samples}
     \subexperiment{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Deterime qty of RNA in previously extracted samples
+        \item Determine qty of RNA in previously extracted samples
       \end{itemize}
 
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Nanodropped RNA exraction from 15/1/13??
+        \item Nanodropped RNA extraction from 15/1/13??
         \item Standard protocol, used sterile milliQ water as blank.
       \end{itemize}
 
@@ -99,7 +99,7 @@
         (see ./jan/20130121-PracticeRNASamples.ods)
       \end{itemize}
 
-    \subexperiment{Attachements}
+    \subexperiment{Attachments}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item ./jan/20130121-PracticeRNAExtractionSamples.csv
         \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
@@ -121,20 +121,20 @@
   \experiment{MADE: RNA Denaturing Gel (MOPS)}
     \emph{Method}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Melt 1g RNAse-free Agarose in 72ml DEPC H2O
+      \item Melt 1g RNAase-free Agarose in 72ml DEPC H2O
       \item Add 10mL 10x MOPS
       \item Add 18mL 37\% Formaldehyde
-      \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAse-zap
+      \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAase-zap
     \end{itemize}
 
 \labday{Tue 2013-01-22}
   \experiment{Denature RNA for RNA gels}
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Dilute RNA to 100ng/uL
+        \item Dilute RNA to 100ng/µL
         \item Add RNA gel loading buffer (Obtained from Pete Crisp)
         \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on the evening of
-          2013-01-21, but the gels were not run until 2013-01-22, so they were denatured for a futher 2 minutes at 65
+          2013-01-21, but the gels were not run until 2013-01-22, so they were denatured for a further 2 minutes at 65
           degrees
       \end{itemize}
 
@@ -146,10 +146,10 @@
 
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Dissolve 1g RNAase-free agarose in 90mL DEPC water
-        \item Add 10mL RNAse-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
-        \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAse-zap
-        \item Then, load denatured samples, and run in RNAse-free 1x TBE
+        \item Dissolve 1g RNAase-free Agarose in 90mL DEPC water
+        \item Add 10mL RNAase-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
+        \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAase-zap
+        \item Then, load denatured samples, and run in RNAase-free 1x TBE
         \item Run at $\approx$ 80V, $\approx$ 40-50mA for $\approx$ 1.75h
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
       \end{itemize}
@@ -163,21 +163,21 @@
       \end{figure}
       See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
       Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to right) A2, A3, A5,
-      A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a misloading error. Overall, the TBE gel
+      A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a mis-loading error. Overall, the TBE gel
       appears to be of more use than the MOPS gel.\\
 
   \experiment{MOPS gel}
     \subexperiment{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Determine qualtiy of RNA and Compare MOPS with TBE for RNA gels
+        \item Determine quality of RNA and Compare MOPS with TBE for RNA gels
       \end{itemize}
 
     \subexperiment{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
-        \item Run gel in RNAse free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h as per TBE gel above.
+        \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h as per TBE gel above.
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
-        \item Destain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst destaining.
+        \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst de-staining.
       \end{itemize}
 
     \subexperiment{Results}
@@ -197,7 +197,7 @@
 
       See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
       \ref{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}\\
-      Mops gel conifrms that the rna was of reasonable quality. The MOPS gel appears to be of less use than the TBE
+      Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less use than the TBE
       gel.\\
 
 \labday{Tue 2013-01-29}
@@ -208,11 +208,11 @@
 
 \labday{Thu 2013-02-07}
   \experiment{Prepare Trays for Planting}
-    Trays were filled with steamed seed raising mix, with 1mL/L osmocote added and mixed before
+    Trays were filled with steamed seed raising mix, with 1mL/L Osmocote® added and mixed before
     dispensing. Trays were filled by pouring potting mix over tall 5cm square pots, and compacting
     it with hands. 41 trays of 24 and one tray of 20 pots were made.\\
     Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
-    azamax, covered with cling film and stored at 4 degrees C.
+    AzaMax™, covered with cling film and stored at 4 degrees C.
 
 \labday{Fri 2013-02-08}
   \experiment{Planting of RIX lines}
@@ -222,8 +222,8 @@
     \subexperiment{Method:}
       Seeds were planted in pre-prepared trays, by shaking from a piece of paper. Either 6 or 12
       plants of each line, and some mutants, were planted in contiguous blocks. Once planted, trays
-      were sprayed with a small amount of water and labeled by row, i.e. each row of plants
-      consisted of one genotype, and only one pot was labeled per row. Plants were not randomised at
+      were sprayed with a small amount of water and labelled by row, i.e. each row of plants
+      consisted of one genotype, and only one pot was labelled per row. Plants were not randomised at
       this point. If the tray was dry, approx 0.5-1L of RO water was added.\\
       The following table describes the lines which were planted. 12 plants of each line were
       planted, unless otherwise stated in the ``Qty'' columns below. From now on, lines will be
