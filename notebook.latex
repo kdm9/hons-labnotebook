@@ -214,4 +214,20 @@
     Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
     azamax, covered with cling film and stored at 4 degrees C.
 
+\labday{Fri 2013-02-08}
+  \experiment{Planting of RIX lines}
+    \subexperiment{Aim:}
+      Plant (ideally) 9 plants of each of the RIX lines, for the experiment Keng and I will
+      conduct
+    \subexperiment{Method:}
+      Seeds were planted in pre-prepared trays, by shaking from a piece of paper. Either 6 or 12
+      plants of each line, and some mutants, were planted in contiguous blocks. Once planted, trays
+      were sprayed with a small amount of water and labeled by row, i.e. each row of plants
+      consisted of one genotype, and only one pot was labeled per row. Plants were not randomised at
+      this point. If the tray was dry, approx 0.5-1L of RO water was added.\\
+      The following table describes the lines which were planted. 12 plants of each line were
+      planted, unless otherwise stated in the ``Qty'' columns below. From now on, lines will be
+      referred to by their number in the following table. \label{20130208-linestable}
+      \csvautolongtable{./feb/20130208-KMPlantedLines.csv}
+
 \end{document}
