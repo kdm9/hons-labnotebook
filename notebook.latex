@@ -206,4 +206,12 @@
     (+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
     \csvautolongtable{jan/20130129-SeedStockLevels.csv}
 
+\labday{Thu 2013-02-07}
+  \experiment{Prepare Trays for Planting}
+    Trays were filled with steamed seed raising mix, with 1mL/L osmocote added and mixed before
+    dispensing. Trays were filled by pouring potting mix over tall 5cm square pots, and compacting
+    it with hands. 41 trays of 24 and one tray of 20 pots were made.\\
+    Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
+    azamax, covered with cling film and stored at 4 degrees C.
+
 \end{document}
