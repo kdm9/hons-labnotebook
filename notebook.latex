@@ -230,6 +230,30 @@
       referred to by their number in the following table. \label{20130208-linestable}
       \csvautolongtable{./feb/20130208-KMPlantedLines.csv}
 
+\chapter*{Thu 2013-02-14}
+  \section*{Sun and Shade Spectra}
+    \subsection*{Aim}
+      Measure specta from natural sun and natural shade at midday
+    \subsection*{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item John Evan's spectroradiometer was used
+        \item Measure every nm from 400 to 800
+        \item Measurements taken at approx 12:30-1pm
+        \item Measure clear, unobstructed sun with no clouds in quadrangle between forrestry,
+          geography and Robertson buildings, ANU.
+        \item Measure shade under elm tree in same location
+        \item Calculations made by Pip Wilson, yielded umol photon per square meter per second per
+          nanometer measures of intesnity. (see attached xls spreadsheet).
+      \end{itemize}
+    \subsection*{Results}
+      Overall PAR integrations were 38.0 and 1809.5 uE for shade and sun respectively.\\
+      Spectra detailed in:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+          \item \verb+20130214-shade and sun spectra.xlsx+\\
+            MD5SUM db67505144fbd20ecc317a494f80ecde
+          \item \verb+20130214-SunShadeSpectra.csv+\\
+            MD5SUM 56003985e19111288384dcd5f4dc51f1
+      \end{itemize}
 \chapter*{Fri 2013-03-01}
   \section*{Creation of Solarcalc files}
     \subsection*{Aim:}
@@ -257,5 +281,6 @@
           \verb+20130301-KMTemora2012Sep01_A_LED-Normalised_prefs.srp+ \\
           MD5SUM d01fcc5ae9ad8fba07bd9b9512c82857
       \end{itemize}
+
 
 \end{document}
