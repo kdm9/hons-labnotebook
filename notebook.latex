@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{labbook}
+\documentclass[12pt,a4paper]{book}
 \usepackage{datetime}
 \usepackage{graphicx}
 \usepackage[margin=1.5cm]{geometry}
@@ -17,29 +17,29 @@
   \end{center}
 \end{titlepage}
 
-\labday{Mon 2012-12-03}
-  \experiment{Initial Harvest of Keng's RIX lines}
-    \subexperiment{Aim}
+\chapter*{Mon 2012-12-03}
+  \section*{Initial Harvest of Keng's RIX lines}
+    \subsection*{Aim}
       Harvest lines before the 1 week repeated HL stress experiment.
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Tissue was harvested into a 96 well tray of 8-strip $\approx$ 1mL tubes
         \item Single leaves were placed into the tubes, and snap frozen in liquid nitrogen.
       \end{itemize}
-    \subexperiment{Results}
+    \subsection*{Results}
       The following table details the collection, including the plate layout
       \csvautolongtable{dec12/20121203-InitialHarvest.csv}
       \emph{Attachments:}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item dec12/20121203-harvest-pictures.tar.bz2 \hfill
+        \item \verb+./dec12/20121203-harvest-pictures.tar.bz2+ \hfill
           MD5SUM:2843946f8cae888a60dcd2226feb874f
       \end{itemize}
 
-\labday{Mon 2012-12-10}
-  \experiment{Final Harvest of Keng's RIX lines}
-    \subexperiment{Aim}
+\chapter*{Mon 2012-12-10}
+  \section*{Final Harvest of Keng's RIX lines}
+    \subsection*{Aim}
       Harvest lines after 1 week of HL stress.
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item An Eppendorf 1.2mL deep well plate was placed on dry ice for $\approx$ 10 minutes before
           sampling to allow to cool.
@@ -49,17 +49,17 @@
           also the largest leaf). Some plants were very small, and had only juvenile leaves, in which
           case the largest juvenile leaf was taken.
       \end{itemize}
-    \subexperiment{Results}
+    \subsection*{Results}
     The following table describes the plate layout.
     \csvautolongtable{dec12/20121210-FinalHarvest.csv}
     \emph{Attachments:}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item dec12/20121210-harvest-photos.tar.bz2 \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
+      \item \verb+dec12/20121210-harvest-photos.tar.bz2+ \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
     \end{itemize}
 
-\labday{Mon 2013-01-14}
-  \experiment{MAKE: Washed Ball Bearings}
-    \subexperiment{Method}
+\chapter*{Mon 2013-01-14}
+  \section*{MAKE: Washed Ball Bearings}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Aliquot approx 15mL of 3mm diameter steel ball bearings into 50mL falcon tube
         \item Add clean 100\% ethanol
@@ -68,10 +68,10 @@
         \item Dry in fume cupboard overnight
       \end{itemize}
 
-  \experiment{TissueLyser grinding of practice samples}
-    \subexperiment{Aims}
+  \section*{TissueLyser grinding of practice samples}
+    \subsection*{Aims}
       To grind tissue from the excess tissue of Keng's RIX lines collected on 3/12/12.
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Remove pre-frozen TissueLyser blocks from -80 freezer.
         \item Add one cleaned bead to each Eppendorf tube (beads were not pre-cooled)
@@ -80,33 +80,33 @@
         \item Replace samples in -80
       \end{itemize}
 
-\labday{Mon 2013-01-21}
-  \experiment{Quantification of RNA samples}
-    \subexperiment{Aim}
+\chapter*{Mon 2013-01-21}
+  \section*{Quantification of RNA samples}
+    \subsection*{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Determine qty of RNA in previously extracted samples
       \end{itemize}
 
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Nanodropped RNA extraction from 15/1/13??
         \item Standard protocol, used sterile milliQ water as blank.
       \end{itemize}
 
-    \subexperiment{Result}
+    \subsection*{Result}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
-        (see ./jan/20130121-PracticeRNASamples.ods)
+        (see \verb+./jan/20130121-PracticeRNASamples.ods+)
       \end{itemize}
 
-    \subexperiment{Attachments}
+    \subsection*{Attachments}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item ./jan/20130121-PracticeRNAExtractionSamples.csv
-        \item ./jan/20130121-PracticeRNAExtractionSamples.ndv
-        \item ./jan/20130121-PracticeRNASamples.ods
+        \item \verb+./jan/20130121-PracticeRNAExtractionSamples.csv+
+        \item \verb+./jan/20130121-PracticeRNAExtractionSamples.ndv+
+        \item \verb+./jan/20130121-PracticeRNASamples.ods+
       \end{itemize}
 
-  \experiment{MADE: 10x MOPS Solution}
+  \section*{MADE: 10x MOPS Solution}
     \emph{Method}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Add 41.8g RNA only MOPS to beaker
@@ -118,7 +118,7 @@
       \item Use 10ml per 100mL MOPS gel
     \end{itemize}
 
-  \experiment{MADE: RNA Denaturing Gel (MOPS)}
+  \section*{MADE: RNA Denaturing Gel (MOPS)}
     \emph{Method}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item Melt 1g RNAase-free Agarose in 72ml DEPC H2O
@@ -127,9 +127,9 @@
       \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAase-zap
     \end{itemize}
 
-\labday{Tue 2013-01-22}
-  \experiment{Denature RNA for RNA gels}
-    \subexperiment{Method}
+\chapter*{Tue 2013-01-22}
+  \section*{Denature RNA for RNA gels}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Dilute RNA to 100ng/µL
         \item Add RNA gel loading buffer (Obtained from Pete Crisp)
@@ -138,13 +138,13 @@
           degrees
       \end{itemize}
 
-  \experiment{TBE Gel}
-    \subexperiment{Aim}
+  \section*{TBE Gel}
+    \subsection*{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item To compare TBE and denaturing/MOPS gels for RNA
       \end{itemize}
 
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Dissolve 1g RNAase-free Agarose in 90mL DEPC water
         \item Add 10mL RNAase-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
@@ -154,7 +154,7 @@
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
       \end{itemize}
 
-    \subexperiment{Result}
+    \subsection*{Result}
       \begin{figure}[h!]
         \caption{TBE Gel of Practice RNA samples, 2013-01-22}
         \centering
@@ -166,13 +166,13 @@
       A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a mis-loading error. Overall, the TBE gel
       appears to be of more use than the MOPS gel.\\
 
-  \experiment{MOPS gel}
-    \subexperiment{Aim}
+  \section*{MOPS gel}
+    \subsection*{Aim}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Determine quality of RNA and Compare MOPS with TBE for RNA gels
       \end{itemize}
 
-    \subexperiment{Method}
+    \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
         \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h as per TBE gel above.
@@ -180,7 +180,7 @@
         \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst de-staining.
       \end{itemize}
 
-    \subexperiment{Results}
+    \subsection*{Results}
       \begin{figure}[h!]
         \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
         \centering
@@ -200,26 +200,26 @@
       Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less use than the TBE
       gel.\\
 
-\labday{Tue 2013-01-29}
-  \experiment{Seed Stock Levels}
+\chapter*{Tue 2013-01-29}
+  \section*{Seed Stock Levels}
     The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
     (+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
     \csvautolongtable{jan/20130129-SeedStockLevels.csv}
 
-\labday{Thu 2013-02-07}
-  \experiment{Prepare Trays for Planting}
+\chapter*{Thu 2013-02-07}
+  \section*{Prepare Trays for Planting}
     Trays were filled with steamed seed raising mix, with 1mL/L Osmocote® added and mixed before
     dispensing. Trays were filled by pouring potting mix over tall 5cm square pots, and compacting
     it with hands. 41 trays of 24 and one tray of 20 pots were made.\\
     Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
     AzaMax™, covered with cling film and stored at 4 degrees C.
 
-\labday{Fri 2013-02-08}
-  \experiment{Planting of RIX lines}
-    \subexperiment{Aim:}
+\chapter*{Fri 2013-02-08}
+  \section*{Planting of RIX lines}
+    \subsection*{Aim:}
       Plant (ideally) 9 plants of each of the RIX lines, for the experiment Keng and I will
       conduct
-    \subexperiment{Method:}
+    \subsection*{Method:}
       Seeds were planted in pre-prepared trays, by shaking from a piece of paper. Either 6 or 12
       plants of each line, and some mutants, were planted in contiguous blocks. Once planted, trays
       were sprayed with a small amount of water and labelled by row, i.e. each row of plants
