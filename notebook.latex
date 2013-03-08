@@ -254,6 +254,7 @@
           \item \verb+20130214-SunShadeSpectra.csv+\\
             MD5SUM 56003985e19111288384dcd5f4dc51f1
       \end{itemize}
+
 \chapter*{Fri 2013-03-01}
   \section*{Creation of Solarcalc files}
     \subsection*{Aim:}
@@ -281,6 +282,5 @@
           \verb+20130301-KMTemora2012Sep01_A_LED-Normalised_prefs.srp+ \\
           MD5SUM d01fcc5ae9ad8fba07bd9b9512c82857
       \end{itemize}
-
 
 \end{document}
