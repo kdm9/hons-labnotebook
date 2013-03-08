@@ -230,4 +230,32 @@
       referred to by their number in the following table. \label{20130208-linestable}
       \csvautolongtable{./feb/20130208-KMPlantedLines.csv}
 
+\chapter*{Fri 2013-03-01}
+  \section*{Creation of Solarcalc files}
+    \subsection*{Aim:}
+      Generate the solar calc files which will be used to control the conviron growth cabinents and
+      heliospectra lights for the duration of the latter part of the experiment.
+    \subsection*{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \item Location: Temora
+        \item Min Temp: 5 C
+        \item Max Humid.: 80
+        \item Start Date: 1/9/12
+        \item End Date: 31/12/12
+        \item Shading: 0
+        \item LED Ratios: 7.74 6.16 5.98 5.64 7.35 1.00 5.45
+        \item 2010 weather
+      \end{itemize}
+    \subsection*{Results}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Solarcalc output:\\
+          \verb+./mar/20130301-KMTemora2012Sep01_A_LED-Normalised.csv+ \\
+          MD5sum b1dee0ba373a1e74956dd5c8d3ccce38
+        \item Solarcalc preferences file:\\
+          \verb+20130301-KMTemora2012Sep01_A_LED-Normalised_prefs.srp+ \\
+          MD5SUM d01fcc5ae9ad8fba07bd9b9512c82857
+      \end{itemize}
+
 \end{document}
