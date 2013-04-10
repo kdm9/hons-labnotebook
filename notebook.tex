@@ -354,4 +354,58 @@
             3f124559d1553f68384218509196992d
       \end{itemize}
 
+\chapter*{Sun 2013-03-10}
+  \section*{Creation of Intermittent Bright/Shaded Solarcalc files}
+    \subsection*{Aim:}
+      Generate the solar calc files which will be used to control the conviron growth cabinents and
+      heliospectra lights for the duration of the latter part of the experiment.\\
+      These files are to increase the brightness of the high light treatment.\\
+    \subsection*{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+          \item Location: Temora
+          \item Min Temp: 10 C
+          \item Max Humid.: 70
+          \item Start Date: 1/9/12
+          \item End Date: 31/12/12
+          \item Shading: High Light file: 0, Low Light files: 45
+          \item LED Ratios: \\
+            1x: 1.29 1.03 .94 1.22 0.17 .91\\
+            2x: 2.6 2.06 2 1.96 2.44 0.34 1.82
+          \item 2010 weather
+        \end{itemize}
+        \item Then, the spliceSolarCalc.py script was used to splice between them, using the command
+          line: \\
+          \footnotesize\begin{verbatim}
+python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
+    -f 2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv \
+    -F 2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv \
+    -1 120 -2 60 # 2h Low, 1h High
+          \end{verbatim}
+      \end{itemize}
+    \subsection*{Results}
+      Solarcalc inputs:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv+\\
+          ddff182b78d1fe10e662fb827a179804
+        \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv+\\
+          59fcd4aacdf20eeb750c22b18ba4f118
+      \end{itemize}
+      Solarcalc preferences files:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.srp+\\
+          d40480b773fdaad8ecf9bd14a5d445ed
+        \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.srp+\\
+          bf276b2cf5658f00fbd02bce55f186f7
+      \end{itemize}
+      Solarcalc Output:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item \verb+2013-03/20130310-KMTemora2012Sep01_Intermittent2hLL1hHL.csv+ \\
+          c415ed3654b071ad6fbcbd044b60f732
+      \end{itemize}
+      Solarcalc Splice Script: \\
+      \verb+./2013-03/20130310-spliceSolarCalc.py+ 6cd8ea9895d19b7851c41c086535f318\\
+
 \end{document}
