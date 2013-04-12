@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage[margin=1.5cm]{geometry}
 \usepackage{csvsimple}
+\usepackage{datatool}
 \usepackage{longtable}
 \begin{document}
 \setlength{\parindent}{0cm}
@@ -408,7 +409,6 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       Solarcalc Splice Script: \\
       \verb+./2013-03/20130310-spliceSolarCalc.py+ 6cd8ea9895d19b7851c41c086535f318\\
 
-
 \chapter*{Mon 2013-03-25}
   \section*{Harvesting of practice tissue}
     \subsection*{Aim}
@@ -423,8 +423,10 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
     \subsection*{Results}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item The plate was labelled ``Harvest Tissue Plate'', and stored in -80.
-        \item The samples are laid out as described in
-          \verb+./2013-03/20130325-PracticeRNAPlate.csv+ (MD5SUM: 9dc6d4057a1bf0ddc2bc1f360dec7c1c)
+        \item The samples are laid out as described below:
       \end{itemize}
+      \DTLloaddb{practiceplatelayout}{./2013-03/20130325-practiceHarvestPlate.csv}
+      \DTLdisplaydb{practiceplatelayout}
+
 
 \end{document}
