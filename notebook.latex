@@ -411,6 +411,19 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       Solarcalc Splice Script: \\
       \verb+./2013-03/20130310-spliceSolarCalc.py+ 6cd8ea9895d19b7851c41c086535f318\\
 
+
+\chapter*{Fri 2013-03-19}
+  \section*{Enter plants in trayscan database}
+    \subsection*{Aim}
+      Allow trayscan to see and process out plants
+    \subsection*{Method}
+      Using the tray registrator, the attached csv was registered in the database. The registration
+      may have failed, PSI will fix the database to reflect it.
+    \subsection*{Results}
+      \verb+./2013-03/20130320-TrayscanImportSheet.csv+ \\
+      \verb+MD5SUM: 69b97ec5cd3f30c10c0d7b21da59a35b+\\
+
+
 \chapter*{Mon 2013-03-25}
   \section*{Harvesting of practice tissue}
     \subsection*{Aim}
