@@ -476,15 +476,12 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         Plate 1:\\
         \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
         \DTLdisplaylongdb{marharvestplate1}
-        \\
         Plate 2:\\
         \DTLloaddb{marharvestplate2}{./2013-03/20130326-harvestplate2.csv}
         \DTLdisplaylongdb{marharvestplate2}
-        \\
         Plate 3:\\
         \DTLloaddb{marharvestplate3}{./2013-03/20130326-harvestplate3.csv}
         \DTLdisplaylongdb{marharvestplate3}
-        \\
         Plate 4:\\
         \DTLloaddb{marharvestplate4}{./2013-03/20130326-harvestplate4.csv}
         \DTLdisplaylongdb{marharvestplate4}
