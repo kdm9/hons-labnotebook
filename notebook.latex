@@ -98,8 +98,8 @@
 
     \subsection*{Result}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8 in all but one case.
-        (see \verb+./2013-01/20130121-PracticeRNASamples.ods+)
+        \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8
+          in all but one case.  (see \verb+./2013-01/20130121-PracticeRNASamples.ods+)
       \end{itemize}
 
     \subsection*{Attachments}
@@ -136,9 +136,9 @@
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Dilute RNA to 100ng/µL
         \item Add RNA gel loading buffer (Obtained from Pete Crisp)
-        \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on the evening of
-          2013-01-21, but the gels were not run until 2013-01-22, so they were denatured for a further 2 minutes at 65
-          degrees
+        \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on
+          the evening of 2013-01-21, but the gels were not run until 2013-01-22, so they were
+          denatured for a further 2 minutes at 65 degrees
       \end{itemize}
 
   \section*{TBE Gel}
@@ -165,9 +165,9 @@
         \label{fig:20130122-PracticeRNATBE}
       \end{figure}
       See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
-      Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to right) A2, A3, A5,
-      A6, A7, B3, B5, B7. A7 appears to have no RNA, although this is probably a mis-loading error. Overall, the TBE gel
-      appears to be of more use than the MOPS gel.\\
+      Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to
+      right) A2, A3, A5, A6, A7, B3, B5, B7.  A7 appears to have no RNA, although this is probably a
+      mis-loading error. Overall, the TBE gel appears to be of more use than the MOPS gel.\\
 
   \section*{MOPS gel}
     \subsection*{Aim}
@@ -177,10 +177,13 @@
 
     \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5, A6, A7, B3, B5, B7.
-        \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h as per TBE gel above.
+        \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5,
+        A6, A7, B3, B5, B7.
+        \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h
+          as per TBE gel above.
         \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
-        \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst de-staining.
+        \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst
+          de-staining.
       \end{itemize}
 
     \subsection*{Results}
@@ -200,8 +203,8 @@
 
       See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
       \ref{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}\\
-      Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less use than the TBE
-      gel.\\
+      Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less
+      use than the TBE gel.\\
 
 \chapter*{Tue 2013-01-29}
   \section*{Seed Stock Levels}
@@ -450,8 +453,8 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       Harvest the actual experimental samples. Today, the first replicate will be harvested.
     \subsection*{Method}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to be summarised
-          later)
+        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
+          be summarised later)
         \item Leaves were excised and genly rolled (where possible) between fingers, without
           breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
           most cases, for faster freezing.
