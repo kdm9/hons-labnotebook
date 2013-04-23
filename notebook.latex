@@ -2,10 +2,10 @@
 \usepackage{datetime}
 \usepackage{graphicx}
 \usepackage[margin=1.5cm]{geometry}
-\usepackage{csvsimple}
 \usepackage{datatool}
 \usepackage{longtable}
 \usepackage{lscape}
+\usepackage{underscore}
 \usepackage{fontspec}
 \begin{document}
 \setlength{\parindent}{0cm}
@@ -31,7 +31,8 @@
       \end{itemize}
     \subsection*{Results}
       The following table details the collection, including the plate layout
-      \csvautolongtable{./2012-12/20121203-InitialHarvest.csv}
+      \DTLloaddb{dec12harvest}{./2012-12/20121203-InitialHarvest.csv}
+      \DTLdisplaylongdb{dec12harvest}
       \emph{Attachments:}
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item \verb+./2012-12/20121203-harvest-pictures.tar.bz2+ \hfill
@@ -54,7 +55,8 @@
       \end{itemize}
     \subsection*{Results}
     The following table describes the plate layout.
-    \csvautolongtable{./2012-12/20121210-FinalHarvest.csv}
+    \DTLloaddb{dec12finalharvest}{./2012-12/20121210-FinalHarvest.csv}
+    \DTLdisplaylongdb{dec12finalharvest}
     \emph{Attachments:}
     \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
       \item \verb+./2012-12/20121210-harvest-photos.tar.bz2+ \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
@@ -210,7 +212,8 @@
   \section*{Seed Stock Levels}
     The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
     (+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
-    \csvautolongtable{./2013-01/20130129-SeedStockLevels.csv}
+    \DTLloaddb{janseedstocklevels}{./2013-01/20130129-SeedStockLevels.csv}
+    \DTLdisplaylongdb{janseedstocklevels}
 
 \chapter*{Thu 2013-02-07}
   \section*{Prepare Trays for Planting}
@@ -233,8 +236,9 @@
       this point. If the tray was dry, approx 0.5-1L of RO water was added.\\
       The following table describes the lines which were planted. 12 plants of each line were
       planted, unless otherwise stated in the ``Qty'' columns below. From now on, lines will be
-      referred to by their number in the following table. \label{20130208-linestable}
-      \csvautolongtable{./2013-02/20130208-KMPlantedLines.csv}
+      referred to by their number in the following table.\\
+      \DTLloaddb{kmplantedlines}{./2013-02/20130208-KMPlantedLines.csv}
+      \DTLdisplaylongdb{kmplantedlines}
 
 \chapter*{Thu 2013-02-14}
   \section*{Sun and Shade Spectra}
@@ -444,7 +448,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item The samples are laid out as described below:
       \end{itemize}
       \DTLloaddb{practiceplatelayout}{./2013-03/20130325-practiceHarvestPlate.csv}
-      \DTLdisplaydb{practiceplatelayout}
+      \DTLdisplaylongdb{practiceplatelayout}
 
 
 \chapter*{Tue 2013-03-26}
@@ -464,26 +468,26 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item Harvesting started at 12:00. Detailed in the table below.
       \end{itemize}
       \DTLloaddb{marday1harvtime}{./2013-03/20130326-HarvestTimes.csv}
-      \DTLdisplaydb{marday1harvtime}
+      \DTLdisplaylongdb{marday1harvtime}
     \subsection*{Results}
       The plate layout is described below:\\
       \scriptsize
       \begin{landscape}
         Plate 1:\\
         \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
-        \DTLdisplaydb{marharvestplate1}
+        \DTLdisplaylongdb{marharvestplate1}
         \\
         Plate 2:\\
         \DTLloaddb{marharvestplate2}{./2013-03/20130326-harvestplate2.csv}
-        \DTLdisplaydb{marharvestplate2}
+        \DTLdisplaylongdb{marharvestplate2}
         \\
         Plate 3:\\
         \DTLloaddb{marharvestplate3}{./2013-03/20130326-harvestplate3.csv}
-        \DTLdisplaydb{marharvestplate3}
+        \DTLdisplaylongdb{marharvestplate3}
         \\
         Plate 4:\\
         \DTLloaddb{marharvestplate4}{./2013-03/20130326-harvestplate4.csv}
-        \DTLdisplaydb{marharvestplate4}
+        \DTLdisplaylongdb{marharvestplate4}
       \end{landscape}
 
 
