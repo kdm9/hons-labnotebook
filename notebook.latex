@@ -5,6 +5,8 @@
 \usepackage{csvsimple}
 \usepackage{datatool}
 \usepackage{longtable}
+\usepackage{lscape}
+\usepackage{fontspec}
 \begin{document}
 \setlength{\parindent}{0cm}
 
@@ -427,6 +429,46 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \end{itemize}
       \DTLloaddb{practiceplatelayout}{./2013-03/20130325-practiceHarvestPlate.csv}
       \DTLdisplaydb{practiceplatelayout}
+
+
+\chapter*{Tue 2013-03-26}
+  \section*{Harvesing the First Replicate across each chamber}
+    \subsection*{Aim}
+      Harvest the actual experimental samples. Today, the first replicate will be harvested.
+    \subsection*{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to be summarised
+          later)
+        \item Leaves were excised and genly rolled (where possible) between fingers, without
+          breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
+          most cases, for faster freezing.
+        \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
+          were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
+          tweezers, using tweezer blades to cut the leaf.
+        \item Harvesting started at 12:00. Detailed in the table below.
+      \end{itemize}
+      \DTLloaddb{marday1harvtime}{./2013-03/20130326-HarvestTimes.csv}
+      \DTLdisplaydb{marday1harvtime}
+    \subsection*{Results}
+      The plate layout is described below:\\
+      \scriptsize
+      \begin{landscape}
+        Plate 1:\\
+        \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
+        \DTLdisplaydb{marharvestplate1}
+        \\
+        Plate 2:\\
+        \DTLloaddb{marharvestplate2}{./2013-03/20130326-harvestplate2.csv}
+        \DTLdisplaydb{marharvestplate2}
+        \\
+        Plate 3:\\
+        \DTLloaddb{marharvestplate3}{./2013-03/20130326-harvestplate3.csv}
+        \DTLdisplaydb{marharvestplate3}
+        \\
+        Plate 4:\\
+        \DTLloaddb{marharvestplate4}{./2013-03/20130326-harvestplate4.csv}
+        \DTLdisplaydb{marharvestplate4}
+      \end{landscape}
 
 
 \end{document}

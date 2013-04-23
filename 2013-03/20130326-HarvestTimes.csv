@@ -1,0 +1,14 @@
+Time ,Chamber,Condtion
+12:00:00,2,0h
+12:40:00,5,0h
+13:00:00,4,0h
+13:40:00,2 tray 1,1h HL (1h05 in HL)
+13:55:00,5 trays 2 and 3,1h HL (30m in HL)
+14:05:00,2 tray 2 and 3,1h HL (1h25m in HL)
+14:15:00,5 tray 1,1h HL (1h15m in HL)
+14:30:00,2,0h
+14:45:00,4,0h
+15:00:00,5,0h
+15:40:00,2,1h HL (1h10m in HL)
+16:00:00,4,1h HL (1h15m in HL)
+16:15:00,5,1h HL (1h15m in HL)
