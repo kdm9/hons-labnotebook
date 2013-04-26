@@ -470,9 +470,11 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \DTLloaddb{marday1harvtime}{./2013-03/20130326-HarvestTimes.csv}
       \DTLdisplaylongdb{marday1harvtime}
     \subsection*{Results}
-      The plate layout is described below:\\
       \scriptsize
       \begin{landscape}
+        The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
+        C, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
+        leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
         Plate 1:\\
         \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
         \DTLdisplaylongdb{marharvestplate1}
