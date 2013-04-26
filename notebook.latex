@@ -490,4 +490,14 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \end{landscape}
 
 
+\chapter*{Fri 2013-04-26}
+  \section*{Trayscan Test}
+    \subsection*{Aim}
+      Test the tray registrator function of the trayscan, as instructed by Petr Ent.
+    \subsection*{Method}
+      A test tray was made, as outlined in the following table.\\
+      \DTLloaddb{trayscantest}{./2013-04/20130426-TrayscanTest.csv}
+      \DTLdisplaydb{trayscantest}
+
+
 \end{document}
