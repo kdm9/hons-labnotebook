@@ -495,9 +495,20 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
     \subsection*{Aim}
       Test the tray registrator function of the trayscan, as instructed by Petr Ent.
     \subsection*{Method}
-      A test tray was made, as outlined in the following table.\\
-      \DTLloaddb{trayscantest}{./2013-04/20130426-TrayscanTest.csv}
-      \DTLdisplaydb{trayscantest}
+      A test tray was made, and placed in the trayscan for PSI to test.\\
+      The tray registration was as per the attached file:\\
+      \verb+./2013-04/20130426-TrayscanTest.csv+ \\
+      \verb+MD5SUM: b6716d2b3c2b63adc36ef6d6a1a11104+
+  \section*{Corrected Trayscan Import File}
+    \subsection*{Aim}
+      Fix difference between the file which we imported into trayscan and the tray labels by which
+      the phenotypic data was recorded.
+    \subsection*{Method}
+      The format of the tray identifiers was changed to reflect the label format. No other changes
+      were made.\\
+      File attachement:\\
+      \verb+./2013-04/20130426-CorrectedTrayscanImportSheet.csv+\\
+      MD5SUM: ba68cc9c73d63b648899dac35129ace5\\
 
 
 \end{document}
