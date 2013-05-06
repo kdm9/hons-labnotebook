@@ -546,6 +546,15 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       File attachement:\\
       \verb+./2013-04/20130426-CorrectedTrayscanImportSheet.csv+\\
       MD5SUM: ba68cc9c73d63b648899dac35129ace5\\
+  \section*{Count of all sampled plants}
+    \subsection*{Aim}
+      To determine the number of plants (for tim's abstract)
+    \subsection*{Method}
+      The number of RIX, mutant and parental lines which survived to sampling week were counted.
+    \subsection*{Results}
+      \DTLloaddb{0426plantcounts}{2013-04/20130426-ChamberPlantSummaries.csv}
+      \DTLdisplaydb{0426plantcounts}
+
 
 
 \end{document}
