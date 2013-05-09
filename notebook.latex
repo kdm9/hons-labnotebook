@@ -556,5 +556,26 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \DTLdisplaydb{0426plantcounts}
 
 
+\chapter*{Mon 2013-05-06}
+  \section*{Development of Undistortion script}
+    \subsection*{Aim}
+      Trial parameters to Imagemagick's convert binary to get best undistortion of barrel
+      distortion.
+    \subsection*{Method}
+      To test the different parameters to the barrel undistortion model, the following command was
+      run, with params subsituted for the model parameters below. The original image was from the
+      stardot 5mp webcams.\\
+      \verb+convert -distort Barrel <params> orig.jpeg undist.jpeg+\\
+      The parameters below were tested:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item ``0.0 0.0 -0.15 1.15''
+        \item ``0.0 0.0 -0.10 1.10''
+        \item ``0.0 0.0 -0.05 1.05''
+        \item ``0.0 0.0 -0.5 1.5''
+        \item ``0.0 0.0 -0.11 1.11''
+      \end{itemize}
+    \subsection*{Results}
+      The parameters ``0.0 0.0 -0.15 1.15'' appeared to work best. Chromatic aberration is
+      problematic. Will try to use fulla from the hugin toolkit.
 
 \end{document}
