@@ -527,6 +527,45 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \DTLdisplaylongdb{marharvestplate8}
       \end{landscape}
 
+\chapter*{Thu 2013-03-28}
+  \section*{Harvesing the Third Replicate across each chamber}
+    \subsection*{Aim}
+      Harvest the actual experimental samples. Today, the third replicate will be harvested.
+    \subsection*{Method}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
+          be summarised later)
+        \item Procedure was as per yesterday
+        \item Leaves were excised and genly rolled (where possible) between fingers, without
+          breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
+          most cases, for faster freezing.
+        \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
+          were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
+          tweezers, using tweezer blades to cut the leaf.
+        \item Harvesting started at 11:30. Detailed in the table below.
+      \end{itemize}
+      \DTLloaddb{marday3harvtime}{./2013-03/20130328-HarvestTimes.csv}
+      \DTLdisplaylongdb{marday3harvtime}
+    \subsection*{Results}
+      \scriptsize
+      \begin{landscape}
+        The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
+        C/caul, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
+        leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
+        Plate 9:\\
+        \DTLloaddb{marharvestplate9}{./2013-03/20130328-harvestplate9.csv}
+        \DTLdisplaylongdb{marharvestplate9}
+        Plate 10:\\
+        \DTLloaddb{marharvestplate10}{./2013-03/20130328-harvestplate10.csv}
+        \DTLdisplaylongdb{marharvestplate10}
+        Plate 11:\\
+        \DTLloaddb{marharvestplate11}{./2013-03/20130328-harvestplate11.csv}
+        \DTLdisplaylongdb{marharvestplate11}
+        Plate 12:\\
+        \DTLloaddb{marharvestplate12}{./2013-03/20130328-harvestplate12.csv}
+        \DTLdisplaylongdb{marharvestplate12}
+      \end{landscape}
+
 \chapter*{Fri 2013-04-26}
   \section*{Trayscan Test}
     \subsection*{Aim}
