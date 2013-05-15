@@ -617,4 +617,27 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       The parameters ``0.0 0.0 -0.15 1.15'' appeared to work best. Chromatic aberration is
       problematic. Will try to use fulla from the hugin toolkit.
 
+
+  \section*{Testing of tissuelyzer settings and protocol}
+    \subsection*{Aim}
+      Test which settings in the tissuelyzer are optimal for grinding tissue in 96 well plates.
+    \subsection*{Method/Results}
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Remove plate containing tissue from -80, and place in tray with LN2.
+        \item Remove silicone tray mat, and repalce with Qiagen collection tube strip caps
+        \item As the plates did not have ball bearings, I added LN2-frozen balls to the top of each
+          plate.
+        \item Freeze tissuelyzer blocks in LN2
+        \item Pour LN2 into tissuelyzer base (the section with the rubber)
+        \item Place plate with bottom in base, and put in machine. Don't add ln2 to the top of the
+          plate
+        \item Run machine (with counterbalance) for 1 min at 25hz
+        \item Remove plate. After inspection, some wells were not pulverised, due to the bead being
+          stuck, so i banged the plate against the desk quite hard about 5 times to dislodge it
+        \item Run for another minute. The tissues appeared to have been ground more thoroughly.
+        \item Spin plate at 6k RPM for 1 minute. This got most of the tissue to the bottom to the
+          tube. Some remained around the lids, and seemed to thaw slightly.
+        \item The plate was put back into the -80
+      \end{itemize}
+
 \end{document}
