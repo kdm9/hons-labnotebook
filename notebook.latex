@@ -723,4 +723,59 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item The plate was put back into the -80
       \end{itemize}
 
+
+\chapter*{Thu 2013-05-16}
+  \section*{Practice Kumar et al Library Prep}
+    \subsection*{Aim}
+      Take two samples up to first strand synthesis
+    \subsection*{Method}
+      Make fresh LBB and additives (hereafter LBBMA):
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Add 6mL LBB from dynabeads kit to 15mL falcon tube
+        \item add 30uL mercapto ethanol and &\approx& 90uL antifoam A. (antifoam A is V. viscous,
+          could not be accurately pippeted)
+      \end{itemize}
+
+      Preps:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item Using practice plate from march harvest harvest, tissuelysed wed 15/5/13
+        \item A2: Add 1mL LBBMA, pippete to mix, breif vortex, pipette into eppie, vortex again.
+          Sample had many chunks which did not resuspend, spilt some lysates.
+        \item A3: Add 500uL LBBMA, use 200uL pippetor to mix, then add extra 500uL and mix w/ 1000ul
+          pippettor. Tfr to new tube. May not have added 500uL the second time, so added &\approx&
+          200uL extra.
+        \item Left A1 8min and A2 5min at RT
+        \item Tfr -> qiashredder, spin 10k rpm, 10min
+        \item Prepare dynabeads:\\
+          Resuspend bottle w/ v. gentle vortex\\
+          150uL -> fresh eppie\\
+          vortex, spin, mag sep, remove supn.\\
+          add 100uL LBBMA, resusp., centrifuge, resusp, 50uL ea to 2 new tubes
+        \item mag sep, remove supn
+        \item 200uL lysates -> each tube, rest of lysates onto dry ice
+        \item pip to mix, incubate @ rt w/ hand mixing, 10min
+        \item sep on mag sep, 15 min
+        \item wash per protocol (steps 1.3 5-6) w/ LBBMA, not straight LBB
+        \item leave in WBB 20min while DNAse MM was made
+        \item Make 20uL DNAse MM per protocol, with 5\% extra, using DEPC mQ water
+        \item wash beads again w/ WBB (NOT Low Salt Buffer)
+        \item add 18uL TrisHCL from dynabeads kit, resusp. 2uL -> extra tubes, for bioanalyser
+        \item add 10uL DNAase MM to 15uL, incubate 10min at 37C in pcr machine
+        \item add 1.5uL 0.22uM filtered EDTA, pip to mix, incubate 75C for 10min
+        \item samples -> ice for 10min, add 175 LBBMA, mix
+        \item incubate RT with hand mixing 10min
+        \item mag sep beads for 10min
+        \item wash per steps 1.3 5-6, but w/ 150uL WBA for sample A3 in step 5
+        \item Wash w/ 200uL WBB again (not LSB)
+        \item Make 13uL primer/dntp mix:\\
+          10mM Tris from dynabeads kit, 11.6uL\\
+          25mM DNTPs from Pete\\
+          Random primers from sigma\\
+        \item incubate, prepare FS cDNA MM, add sample and run synthesis rxn in PCR machine as per
+          protocol, steps 1.3 step 18 - 2.1 step 5
+        \item Freeze sample at -20C
+      \end{itemize}
+    \subsection*{Results}
+      None yet
+
 \end{document}
