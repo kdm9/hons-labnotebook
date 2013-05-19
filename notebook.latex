@@ -652,7 +652,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item Shading: 0
         \item LED Ratios: \\
           4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2010 weather (current)
+        \item 2040 weather
       \end{itemize}
 
       TilbaCurrent.csv:
@@ -682,7 +682,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item Shading: 0
         \item LED Ratios: \\
           4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2010 weather (current)
+        \item 2040 weather
       \end{itemize}
 
     \subsection*{Results}
