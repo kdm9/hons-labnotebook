@@ -618,6 +618,89 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       problematic. Will try to use fulla from the hugin toolkit.
 
 
+\chapter*{Wed 2013-05-15}
+  \section*{Creation of Caroline Chong's Solarcalc files}
+    \subsection*{Aim}
+      Create solarcalc files for Caroline Chong's Pelargonium.
+    \subsection*{Method}
+      Using the parameters below, solarcalc output for her new pelargonium experiment was
+      generated.\\
+      BotriverCurrent.csv:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \item Location: Botrivier -34.219136°S, 19.195707°E
+        \item Min Temp: 5 C
+        \item Max Humid.: 85
+        \item Start Date: 1/11/12
+        \item End Date: 31/12/13
+        \item Shading: 0
+        \item LED Ratios: \\
+          4x: 5.2 4.12 4 3.92 4.88 1 3.64
+        \item 2010 weather (current)
+      \end{itemize}
+
+      BotriverFuture.csv:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \item Location: Botrivier -34.219136°S, 19.195707°E
+        \item Min Temp: 5 C
+        \item Max Humid.: 85
+        \item Start Date: 1/11/12
+        \item End Date: 31/12/13
+        \item Shading: 0
+        \item LED Ratios: \\
+          4x: 5.2 4.12 4 3.92 4.88 1 3.64
+        \item 2010 weather (current)
+      \end{itemize}
+
+      TilbaCurrent.csv:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \item Location: Tilba -36.377685°S 150.069347°E
+        \item Min Temp: 5 C
+        \item Max Humid.: 85
+        \item Start Date: 1/11/12
+        \item End Date: 31/12/13
+        \item Shading: 0
+        \item LED Ratios: \\
+          4x: 5.2 4.12 4 3.92 4.88 1 3.64
+        \item 2010 weather (current)
+      \end{itemize}
+
+      TilbaFuture.csv:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+          used.
+        \item Location: Tilba -36.377685°S 150.069347°E
+        \item Min Temp: 5 C
+        \item Max Humid.: 85
+        \item Start Date: 1/11/12
+        \item End Date: 31/12/13
+        \item Shading: 0
+        \item LED Ratios: \\
+          4x: 5.2 4.12 4 3.92 4.88 1 3.64
+        \item 2010 weather (current)
+      \end{itemize}
+
+    \subsection*{Results}
+      The following files have been attached:
+      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+        \item ./2013-05/20130515-CarolineSolarcalcLocations.kmz md5sum
+          9a5be15bd5bcc854e2f27f33fb1e34e0
+        \item ./2013-05/20130515-BotrivierCurrent.csv md5sum fbe6cea104e11eb9a35448b8be45613d
+        \item ./2013-05/20130515-BotrivierCurrent.srp md5sum bdc0b67c73750e5c774e63d7a66aaaa1
+        \item ./2013-05/20130515-BotriverFuture.csv md5sum 36690160162125160371620976923986
+        \item ./2013-05/20130515-BotriverFuture.srp md5sum 646c0bb13b39868ba0426000af9532aa
+        \item ./2013-05/20130515-TilbaCurrent.csv md5sum 4875aa65f83b86ead8f7008d724d54dc
+        \item ./2013-05/20130515-TilbaCurrent.srp md5sum 878d3193b493a2ced5d69a32bfe8e3bf
+        \item ./2013-05/20130515-TilbaFuture.csv md5sum 4ae75c0b7ff77eef4f7355cbc42fddb6
+        \item ./2013-05/20130515-TilbaFuture.srp md5sum 3544f9404cc1687f609b674767ac2f48
+      \end{itemize}
+
+
   \section*{Testing of tissuelyzer settings and protocol}
     \subsection*{Aim}
       Test which settings in the tissuelyzer are optimal for grinding tissue in 96 well plates.
