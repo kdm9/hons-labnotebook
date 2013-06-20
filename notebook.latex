@@ -732,7 +732,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       Make fresh LBB and additives (hereafter LBBMA):
       \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
         \item Add 6mL LBB from dynabeads kit to 15mL falcon tube
-        \item add 30uL mercapto ethanol and &\approx& 90uL antifoam A. (antifoam A is V. viscous,
+        \item add 30uL mercapto ethanol and $\approx$ 90uL antifoam A. (antifoam A is V. viscous,
           could not be accurately pippeted)
       \end{itemize}
 
@@ -742,7 +742,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \item A2: Add 1mL LBBMA, pippete to mix, breif vortex, pipette into eppie, vortex again.
           Sample had many chunks which did not resuspend, spilt some lysates.
         \item A3: Add 500uL LBBMA, use 200uL pippetor to mix, then add extra 500uL and mix w/ 1000ul
-          pippettor. Tfr to new tube. May not have added 500uL the second time, so added &\approx&
+          pippettor. Tfr to new tube. May not have added 500uL the second time, so added $\approx$
           200uL extra.
         \item Left A1 8min and A2 5min at RT
         \item Tfr -> qiashredder, spin 10k rpm, 10min
@@ -831,6 +831,7 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \caption{Temp}
         \label{fig:20130606-Temp}
       \end{figure}
+
 
 
 \end{document}
