@@ -778,4 +778,59 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
     \subsection*{Results}
       None yet
 
+\chapter*{Thu 2013-06-06}
+  \section*{Create Condtions for keng}
+    \subsection*{Aim}
+      Make solarcalc conditions for keng.
+    \subsection*{Method}
+      as described in the .srp files attached.
+    \subsection*{Results}
+      2013-06/20130606-GriffithCurrent100Light.srp
+      2013-06/20130606-GrifithCurrent100Light.csv
+      2013-06/20130606-MilduraCurrent100Light.csv
+      2013-06/20130606-MilduraCurrent100Light.srp
+      2013-06/20130606-TemoraCurrent100Light.csv
+      2013-06/20130606-TemoraCurrent100Light.srp
+      2013-06/20130606-TemoraCurrent50Light.csv
+      2013-06/20130606-TemoraCurrent50Light.srp
+      2013-06/20130606-UmeaCurrent100Light.csv
+      2013-06/20130606-UmeaCurrent100Light.srp
+      2013-06/20130606-UmeaCurrent100LightTZ.srp
+      2013-06/20130606-WollongongCurrent100Light.csv
+      2013-06/20130606-WollongongCurrent100Light.srp
+      2013-06/20130606-WollongongCurrent35Light.csv
+      2013-06/20130606-WollongongCurrent35Light.srp
+      2013-06/20130606-ZaragozaCurrent100Light.csv
+      2013-06/20130606-ZaragozaCurrent100Light.srp
+      \\
+      \begin{figure}[h]
+        \begin{center}
+          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengLight.png}
+        \end{center}
+        \caption{Light}
+        \label{fig:20130606-light}
+      \end{figure}
+      \begin{figure}[h]
+        \begin{center}
+          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengRHs.png}
+        \end{center}
+        \caption{RH}
+        \label{fig:20130606-RH}
+      \end{figure}
+      \begin{figure}[h]
+        \begin{center}
+          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengHL-LL-ratio.png}
+        \end{center}
+        \caption{Light Ratio (WollongongCurrent100Light / WollongongCurrent35Light)}
+        \label{fig:20130606-lightratio}
+      \end{figure}
+      \begin{figure}[h]
+        \begin{center}
+          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengTemps.png}
+        \end{center}
+        \caption{Temp}
+        \label{fig:20130606-Temp}
+      \end{figure}
+
+
 \end{document}
