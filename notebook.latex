@@ -833,5 +833,17 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \end{figure}
 
 
+\chapter*{Fri 2013-06-21}
+  \section*{Run Degradome analyseR for Pete's poster}
+    \subsection*{Aim}
+      Run DegAnalyseR on the paresnip data
+    \subsection*{Method}
+      Paresnip output was filtered using:\\
+      \verb+R -f DegradomeAnalyseR/paresnip/paresnip_filter.R --args <files>+\\
+      The files paresnip\_1, paresnip\_2, and paresnip\_3 were filtered pairwise, and all together.
+    \subsection*{Results}
+      \DTLloaddb{20130621venn}{./2013-06/20130621-paresnip-venn.csv}
+      \DTLdisplaydb{20130621venn}
+
 
 \end{document}
