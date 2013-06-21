@@ -832,6 +832,21 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
         \label{fig:20130606-Temp}
       \end{figure}
 
+  \section*{Spanish conditions}
+    \subsection*{Aim}
+      Create some inland spanish inland/coastal conditions for comparison.
+    \subsection*{Method}
+      See .srp files attached
+    \subsection*{Results}
+      The inland condition is too cold, so we won't use these.
+      \begin{figure}[h]
+        \begin{center}
+          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-SpainContrastTemp.png}
+        \end{center}
+        \caption{Spain Temps}
+        \label{fig:20130606-spaintemp}
+      \end{figure}
+
 
 \chapter*{Fri 2013-06-21}
   \section*{Run Degradome analyseR for Pete's poster}
