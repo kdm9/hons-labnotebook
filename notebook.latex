@@ -22,852 +22,970 @@
   \end{center}
 \end{titlepage}
 
+
+
 \chapter*{Mon 2012-12-03}
-  \section*{Initial Harvest of Keng's RIX lines}
-    \subsection*{Aim}
-      Harvest lines before the 1 week repeated HL stress experiment.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Tissue was harvested into a 96 well tray of 8-strip $\approx$ 1mL tubes
-        \item Single leaves were placed into the tubes, and snap frozen in liquid nitrogen.
-      \end{itemize}
-    \subsection*{Results}
-      The following table details the collection, including the plate layout
-      \DTLloaddb{dec12harvest}{./2012-12/20121203-InitialHarvest.csv}
-      \DTLdisplaylongdb{dec12harvest}
-      \emph{Attachments:}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item \verb+./2012-12/20121203-harvest-pictures.tar.bz2+ \hfill
-          MD5SUM:2843946f8cae888a60dcd2226feb874f
-      \end{itemize}
+\section*{Initial Harvest of Keng's RIX lines}
+\subsection*{Aim}
+Harvest lines before the 1 week repeated HL stress experiment.
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Tissue was harvested into a 96 well tray of 8-strip $\approx$ 1mL tubes
+  \item Single leaves were placed into the tubes, and snap frozen in liquid nitrogen.
+\end{itemize}
+\subsection*{Results}
+The following table details the collection, including the plate layout
+\DTLloaddb{dec12harvest}{./2012-12/20121203-InitialHarvest.csv}
+\DTLdisplaylongdb{dec12harvest}
+\emph{Attachments:}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+./2012-12/20121203-harvest-pictures.tar.bz2+ \hfill
+    MD5SUM:2843946f8cae888a60dcd2226feb874f
+\end{itemize}
+
+
 
 \chapter*{Mon 2012-12-10}
-  \section*{Final Harvest of Keng's RIX lines}
-    \subsection*{Aim}
-      Harvest lines after 1 week of HL stress.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item An Eppendorf 1.2mL deep well plate was placed on dry ice for $\approx$ 10 minutes before
-          sampling to allow to cool.
-        \item Whole leaves were excised and placed into 1.2mL Eppendorf 96 deep well plate.
-        \item Where possible, the largest mature leaf was taken. In some cases, this was hard to
-          determine, so the youngest of the fully-expanded leaves was taken (as this was generally
-          also the largest leaf). Some plants were very small, and had only juvenile leaves, in which
-          case the largest juvenile leaf was taken.
-      \end{itemize}
-    \subsection*{Results}
-    The following table describes the plate layout.
-    \DTLloaddb{dec12finalharvest}{./2012-12/20121210-FinalHarvest.csv}
-    \DTLdisplaylongdb{dec12finalharvest}
-    \emph{Attachments:}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item \verb+./2012-12/20121210-harvest-photos.tar.bz2+ \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
-    \end{itemize}
+\section*{Final Harvest of Keng's RIX lines}
+\subsection*{Aim}
+Harvest lines after 1 week of HL stress.
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item An Eppendorf 1.2mL deep well plate was placed on dry ice for $\approx$ 10 minutes before
+    sampling to allow to cool.
+  \item Whole leaves were excised and placed into 1.2mL Eppendorf 96 deep well plate.
+  \item Where possible, the largest mature leaf was taken. In some cases, this was hard to
+    determine, so the youngest of the fully-expanded leaves was taken (as this was generally
+    also the largest leaf). Some plants were very small, and had only juvenile leaves, in which
+    case the largest juvenile leaf was taken.
+\end{itemize}
+\subsection*{Results}
+The following table describes the plate layout.
+\DTLloaddb{dec12finalharvest}{./2012-12/20121210-FinalHarvest.csv}
+\DTLdisplaylongdb{dec12finalharvest}
+\emph{Attachments:}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+\item \verb+./2012-12/20121210-harvest-photos.tar.bz2+ \hfill MD5SUM:40dae2cad3babaa3c32f0d35a9d9442c
+\end{itemize}
+
+
 
 \chapter*{Mon 2013-01-14}
-  \section*{MAKE: Washed Ball Bearings}
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Aliquot approx 15mL of 3mm diameter steel ball bearings into 50mL falcon tube
-        \item Add clean 100\% ethanol
-        \item Vortex for $\approx$ 5 minutes
-        \item Remove ethanol, wash beads with milliQ or sterile water
-        \item Dry in fume cupboard overnight
-      \end{itemize}
 
-  \section*{TissueLyser grinding of practice samples}
-    \subsection*{Aims}
-      To grind tissue from the excess tissue of Keng's RIX lines collected on 3/12/12.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Remove pre-frozen TissueLyser blocks from -80 freezer.
-        \item Add one cleaned bead to each Eppendorf tube (beads were not pre-cooled)
-        \item Pour LN$_2$ into the TissueLyser block
-        \item Add Eppys with beads and sample, and run for 3x 1min runs at 29Hz
-        \item Replace samples in -80
-      \end{itemize}
+\section*{MAKE: Washed Ball Bearings}
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Aliquot approx 15mL of 3mm diameter steel ball bearings into 50mL falcon tube
+  \item Add clean 100\% ethanol
+  \item Vortex for $\approx$ 5 minutes
+  \item Remove ethanol, wash beads with milliQ or sterile water
+  \item Dry in fume cupboard overnight
+\end{itemize}
+
+
+\section*{TissueLyser grinding of practice samples}
+
+\subsection*{Aims}
+To grind tissue from the excess tissue of Keng's RIX lines collected on 3/12/12.
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Remove pre-frozen TissueLyser blocks from -80 freezer.
+  \item Add one cleaned bead to each Eppendorf tube (beads were not pre-cooled)
+  \item Pour LN$_2$ into the TissueLyser block
+  \item Add Eppys with beads and sample, and run for 3x 1min runs at 29Hz
+  \item Replace samples in -80
+\end{itemize}
+
+
 
 \chapter*{Mon 2013-01-21}
-  \section*{Quantification of RNA samples}
-    \subsection*{Aim}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Determine qty of RNA in previously extracted samples
-      \end{itemize}
 
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Nanodropped RNA extraction from 15/1/13??
-        \item Standard protocol, used sterile milliQ water as blank.
-      \end{itemize}
+\section*{Quantification of RNA samples}
 
-    \subsection*{Result}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8
-          in all but one case.  (see \verb+./2013-01/20130121-PracticeRNASamples.ods+)
-      \end{itemize}
+\subsection*{Aim}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Determine qty of RNA in previously extracted samples
+\end{itemize}
 
-    \subsection*{Attachments}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item \verb+./2013-01/20130121-PracticeRNAExtractionSamples.csv+
-        \item \verb+./2013-01/20130121-PracticeRNAExtractionSamples.ndv+
-        \item \verb+./2013-01/20130121-PracticeRNASamples.ods+
-      \end{itemize}
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Nanodropped RNA extraction from 15/1/13??
+  \item Standard protocol, used sterile milliQ water as blank.
+\end{itemize}
 
-  \section*{MADE: 10x MOPS Solution}
-    \emph{Method}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Add 41.8g RNA only MOPS to beaker
-      \item Add ~450mL DEPC H2O, mix w/ stirrer bar on mag stirrer
-      \item Add 26.6mL 3M Sodium Acetate (0.22um Filtered before use)
-      \item Add 10mL RNA only 0.5M EDTA
-      \item pH to 7 with 5M NaOH
-      \item Top up to 500 mL with DEPC H2O
-      \item Use 10ml per 100mL MOPS gel
-    \end{itemize}
+\subsection*{Result}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Of the 14 samples, 10 had reasonable amounts of RNA, and 260/280 ratios were above 1.8
+    in all but one case.  (see \verb+./2013-01/20130121-PracticeRNASamples.ods+)
+\end{itemize}
 
-  \section*{MADE: RNA Denaturing Gel (MOPS)}
-    \emph{Method}
-    \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-      \item Melt 1g RNAase-free Agarose in 72ml DEPC H2O
-      \item Add 10mL 10x MOPS
-      \item Add 18mL 37\% Formaldehyde
-      \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAase-zap
-    \end{itemize}
+\subsection*{Attachments}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+./2013-01/20130121-PracticeRNAExtractionSamples.csv+
+  \item \verb+./2013-01/20130121-PracticeRNAExtractionSamples.ndv+
+  \item \verb+./2013-01/20130121-PracticeRNASamples.ods+
+\end{itemize}
+
+
+\section*{MADE: 10x MOPS Solution}
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+\item Add 41.8g RNA only MOPS to beaker
+\item Add ~450mL DEPC H2O, mix w/ stirrer bar on mag stirrer
+\item Add 26.6mL 3M Sodium Acetate (0.22um Filtered before use)
+\item Add 10mL RNA only 0.5M EDTA
+\item pH to 7 with 5M NaOH
+\item Top up to 500 mL with DEPC H2O
+\item Use 10ml per 100mL MOPS gel
+\end{itemize}
+
+
+\section*{MADE: RNA Denaturing Gel (MOPS)}
+\emph{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+\item Melt 1g RNAase-free Agarose in 72ml DEPC H2O
+\item Add 10mL 10x MOPS
+\item Add 18mL 37\% Formaldehyde
+\item Pour in RNA-only gel tank, previously washed with 0.5\% SDS and RNAase-zap
+\end{itemize}
 
 \chapter*{Tue 2013-01-22}
-  \section*{Denature RNA for RNA gels}
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Dilute RNA to 100ng/µL
-        \item Add RNA gel loading buffer (Obtained from Pete Crisp)
-        \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on
-          the evening of 2013-01-21, but the gels were not run until 2013-01-22, so they were
-          denatured for a further 2 minutes at 65 degrees
-      \end{itemize}
+\section*{Denature RNA for RNA gels}
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Dilute RNA to 100ng/µL
+  \item Add RNA gel loading buffer (Obtained from Pete Crisp)
+  \item Incubate at 65 degrees for 10 minutes. The samples were incubated for 10 minutes on
+    the evening of 2013-01-21, but the gels were not run until 2013-01-22, so they were
+    denatured for a further 2 minutes at 65 degrees
+\end{itemize}
 
-  \section*{TBE Gel}
-    \subsection*{Aim}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item To compare TBE and denaturing/MOPS gels for RNA
-      \end{itemize}
+\section*{TBE Gel}
+\subsection*{Aim}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item To compare TBE and denaturing/MOPS gels for RNA
+\end{itemize}
 
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Dissolve 1g RNAase-free Agarose in 90mL DEPC water
-        \item Add 10mL RNAase-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
-        \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAase-zap
-        \item Then, load denatured samples, and run in RNAase-free 1x TBE
-        \item Run at $\approx$ 80V, $\approx$ 40-50mA for $\approx$ 1.75h
-        \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
-      \end{itemize}
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Dissolve 1g RNAase-free Agarose in 90mL DEPC water
+  \item Add 10mL RNAase-free TBE (prepared using DEPC Water, obtained from Pete Crisp)
+  \item Pour in RNA-only gel tank, previously washed with 0.5\% SDS or RNAase-zap
+  \item Then, load denatured samples, and run in RNAase-free 1x TBE
+  \item Run at $\approx$ 80V, $\approx$ 40-50mA for $\approx$ 1.75h
+  \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker, and photograph.
+\end{itemize}
 
-    \subsection*{Result}
-      \begin{figure}[h!]
-        \caption{TBE Gel of Practice RNA samples, 2013-01-22}
-        \centering
-          \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNATBE}
-        \label{fig:20130122-PracticeRNATBE}
-      \end{figure}
-      See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
-      Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to
-      right) A2, A3, A5, A6, A7, B3, B5, B7.  A7 appears to have no RNA, although this is probably a
-      mis-loading error. Overall, the TBE gel appears to be of more use than the MOPS gel.\\
+\subsection*{Result}
+\begin{figure}[h!]
+  \caption{TBE Gel of Practice RNA samples, 2013-01-22}
+  \centering
+    \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNATBE}
+  \label{fig:20130122-PracticeRNATBE}
+\end{figure}
+See Figure \ref{fig:20130122-PracticeRNATBE} below.\\
+Gel indicates some degradation of RNA, however most samples are OK. Sample order is (left to
+right) A2, A3, A5, A6, A7, B3, B5, B7.  A7 appears to have no RNA, although this is probably a
+mis-loading error. Overall, the TBE gel appears to be of more use than the MOPS gel.\\
 
-  \section*{MOPS gel}
-    \subsection*{Aim}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Determine quality of RNA and Compare MOPS with TBE for RNA gels
-      \end{itemize}
 
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5,
-        A6, A7, B3, B5, B7.
-        \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h
-          as per TBE gel above.
-        \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
-        \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst
-          de-staining.
-      \end{itemize}
+\section*{MOPS gel}
+\subsection*{Aim}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Determine quality of RNA and Compare MOPS with TBE for RNA gels
+\end{itemize}
 
-    \subsection*{Results}
-      \begin{figure}[h!]
-        \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
-        \centering
-          \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNADenaturedMOPS}
-        \label{fig:20130122-PracticeRNADenaturedMOPS}
-      \end{figure}
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Load samples after denaturing as above. Sample order is (left to right) A2, A3, A5,
+  A6, A7, B3, B5, B7.
+  \item Run gel in RNAase free 1x MOPS at $\approx$ 80V, $\approx$ 100mA for $\approx$ 1.75h
+    as per TBE gel above.
+  \item Stain gel in 0.5ug/ml Ethidium Br in DEPC water?? for 10 min on orbital shaker.
+  \item De-stain on orbital shaker gel in 1x MOPS, and photograph. Gel disintegrated whilst
+    de-staining.
+\end{itemize}
 
-      \begin{figure}[h!]
-        \caption{MOPS Gel of Practice RNA samples, 2013-01-22. Contrast adjusted.}
-        \centering
-          \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNADenaturedMOPS-HighContrast}
-        \label{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}
-      \end{figure}
+\subsection*{Results}
+\begin{figure}[h!]
+  \caption{MOPS Gel of Practice RNA samples, 2013-01-22}
+  \centering
+    \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNADenaturedMOPS}
+  \label{fig:20130122-PracticeRNADenaturedMOPS}
+\end{figure}
 
-      See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
-      \ref{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}\\
-      Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less
-      use than the TBE gel.\\
+\begin{figure}[h!]
+  \caption{MOPS Gel of Practice RNA samples, 2013-01-22. Contrast adjusted.}
+  \centering
+    \includegraphics[width=0.9\textwidth]{./2013-01/20130122-PracticeRNADenaturedMOPS-HighContrast}
+  \label{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}
+\end{figure}
+
+See Figures \ref{fig:20130122-PracticeRNADenaturedMOPS} and
+\ref{fig:20130122-PracticeRNADenaturedMOPS-HighContrast}\\
+Mops gel confirms that the RNA was of reasonable quality. The MOPS gel appears to be of less
+use than the TBE gel.\\
+
+
 
 \chapter*{Tue 2013-01-29}
-  \section*{Seed Stock Levels}
-    The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
-    (+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
-    \DTLloaddb{janseedstocklevels}{./2013-01/20130129-SeedStockLevels.csv}
-    \DTLdisplaylongdb{janseedstocklevels}
+\section*{Seed Stock Levels}
+The stocks of Joost's RIX set were checked. Seed lines were classified as having either plenty
+(+), limited(?) or no (-) seed. The levels of each line are shown in the table below.
+\DTLloaddb{janseedstocklevels}{./2013-01/20130129-SeedStockLevels.csv}
+\DTLdisplaylongdb{janseedstocklevels}
+
+
 
 \chapter*{Thu 2013-02-07}
-  \section*{Prepare Trays for Planting}
-    Trays were filled with steamed seed raising mix, with 1mL/L Osmocote® added and mixed before
-    dispensing. Trays were filled by pouring potting mix over tall 5cm square pots, and compacting
-    it with hands. 41 trays of 24 and one tray of 20 pots were made.\\
-    Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
-    AzaMax™, covered with cling film and stored at 4 degrees C.
+\section*{Prepare Trays for Planting}
+Trays were filled with steamed seed raising mix, with 1mL/L Osmocote® added and mixed before
+dispensing. Trays were filled by pouring potting mix over tall 5cm square pots, and compacting
+it with hands. 41 trays of 24 and one tray of 20 pots were made.\\
+Once trays were made, they were watered with $\approx$ 1.5L RO water, containing $\approx$ 1mL/L
+AzaMax™, covered with cling film and stored at 4 degrees C.
+
+
 
 \chapter*{Fri 2013-02-08}
-  \section*{Planting of RIX lines}
-    \subsection*{Aim:}
-      Plant (ideally) 9 plants of each of the RIX lines, for the experiment Keng and I will
-      conduct
-    \subsection*{Method:}
-      Seeds were planted in pre-prepared trays, by shaking from a piece of paper. Either 6 or 12
-      plants of each line, and some mutants, were planted in contiguous blocks. Once planted, trays
-      were sprayed with a small amount of water and labelled by row, i.e. each row of plants
-      consisted of one genotype, and only one pot was labelled per row. Plants were not randomised at
-      this point. If the tray was dry, approx 0.5-1L of RO water was added.\\
-      The following table describes the lines which were planted. 12 plants of each line were
-      planted, unless otherwise stated in the ``Qty'' columns below. From now on, lines will be
-      referred to by their number in the following table.\\
-      \DTLloaddb{kmplantedlines}{./2013-02/20130208-KMPlantedLines.csv}
-      \DTLdisplaylongdb{kmplantedlines}
+\section*{Planting of RIX lines}
+\subsection*{Aim:}
+Plant (ideally) 9 plants of each of the RIX lines, for the experiment Keng and I will
+conduct
+
+\subsection*{Method:}
+Seeds were planted in pre-prepared trays, by shaking from a piece of paper. Either 6 or 12
+plants of each line, and some mutants, were planted in contiguous blocks. Once planted, trays
+were sprayed with a small amount of water and labelled by row, i.e. each row of plants
+consisted of one genotype, and only one pot was labelled per row. Plants were not randomised at
+this point. If the tray was dry, approx 0.5-1L of RO water was added.\\
+The following table describes the lines which were planted. 12 plants of each line were
+planted, unless otherwise stated in the ``Qty'' columns below. From now on, lines will be
+referred to by their number in the following table.\\
+\DTLloaddb{kmplantedlines}{./2013-02/20130208-KMPlantedLines.csv}
+\DTLdisplaylongdb{kmplantedlines}
+
+
 
 \chapter*{Thu 2013-02-14}
-  \section*{Sun and Shade Spectra}
-    \subsection*{Aim}
-      Measure specta from natural sun and natural shade at midday
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item John Evan's spectroradiometer was used
-        \item Measure every nm from 400 to 800
-        \item Measurements taken at approx 12:30-1pm
-        \item Measure clear, unobstructed sun with no clouds in quadrangle between forrestry,
-          geography and Robertson buildings, ANU.
-        \item Measure shade under elm tree in same location
-        \item Calculations made by Pip Wilson, yielded umol photon per square meter per second per
-          nanometer measures of intesnity. (see attached xls spreadsheet).
-      \end{itemize}
-    \subsection*{Results}
-      Overall PAR integrations were 38.0 and 1809.5 uE for shade and sun respectively.\\
-      Spectra detailed in:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item \verb+20130214-shade and sun spectra.xlsx+\\
-            MD5SUM db67505144fbd20ecc317a494f80ecde
-          \item \verb+20130214-SunShadeSpectra.csv+\\
-            MD5SUM 56003985e19111288384dcd5f4dc51f1
-      \end{itemize}
+\section*{Sun and Shade Spectra}
+\subsection*{Aim}
+Measure specta from natural sun and natural shade at midday
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item John Evan's spectroradiometer was used
+  \item Measure every nm from 400 to 800
+  \item Measurements taken at approx 12:30-1pm
+  \item Measure clear, unobstructed sun with no clouds in quadrangle between forrestry,
+    geography and Robertson buildings, ANU.
+  \item Measure shade under elm tree in same location
+  \item Calculations made by Pip Wilson, yielded umol photon per square meter per second per
+    nanometer measures of intesnity. (see attached xls spreadsheet).
+\end{itemize}
+
+\subsection*{Results}
+Overall PAR integrations were 38.0 and 1809.5 uE for shade and sun respectively.\\
+Spectra detailed in:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+20130214-shade and sun spectra.xlsx+\\
+    MD5SUM db67505144fbd20ecc317a494f80ecde
+  \item \verb+20130214-SunShadeSpectra.csv+\\
+    MD5SUM 56003985e19111288384dcd5f4dc51f1
+\end{itemize}
+
+
 
 \chapter*{Fri 2013-03-01}
-  \section*{Creation of Solarcalc files}
-    \subsection*{Aim:}
-      Generate the solar calc files which will be used to control the conviron growth cabinents and
-      heliospectra lights for the duration of the latter part of the experiment.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Temora
-        \item Min Temp: 5 C
-        \item Max Humid.: 80
-        \item Start Date: 1/9/12
-        \item End Date: 31/12/12
-        \item Shading: 0
-        \item LED Ratios: 7.74 6.16 5.98 5.64 7.35 1.00 5.45
-        \item 2010 weather
-      \end{itemize}
-    \subsection*{Results}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Solarcalc output:\\
-          \verb+./2013-03/20130301-KMTemora2012Sep01_A_LED-Normalised.csv+ \\
-          MD5sum b1dee0ba373a1e74956dd5c8d3ccce38
-        \item Solarcalc preferences file:\\
-          \verb+./2013-03/20130301-KMTemora2012Sep01_A_LED-Normalised_prefs.srp+ \\
-          MD5SUM d01fcc5ae9ad8fba07bd9b9512c82857
-      \end{itemize}
+\section*{Creation of Solarcalc files}
+\subsection*{Aim:}
+Generate the solar calc files which will be used to control the conviron growth cabinents and
+heliospectra lights for the duration of the latter part of the experiment.
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Temora
+  \item Min Temp: 5 C
+  \item Max Humid.: 80
+  \item Start Date: 1/9/12
+  \item End Date: 31/12/12
+  \item Shading: 0
+  \item LED Ratios: 7.74 6.16 5.98 5.64 7.35 1.00 5.45
+  \item 2010 weather
+\end{itemize}
+
+\subsection*{Results}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Solarcalc output:\\
+    \verb+./2013-03/20130301-KMTemora2012Sep01_A_LED-Normalised.csv+ \\
+    MD5sum b1dee0ba373a1e74956dd5c8d3ccce38
+  \item Solarcalc preferences file:\\
+    \verb+./2013-03/20130301-KMTemora2012Sep01_A_LED-Normalised_prefs.srp+ \\
+    MD5SUM d01fcc5ae9ad8fba07bd9b9512c82857
+\end{itemize}
+
+
 
 \chapter*{Tue 2013-03-05}
-  \section*{Creation of Better Normalised Shaded Solarcalc files}
-    \subsection*{Aim:}
-      Generate the solar calc files which will be used to control the conviron growth cabinents and
-      heliospectra lights for the duration of the latter part of the experiment.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Temora
-        \item Min Temp: 10 C
-        \item Max Humid.: 70
-        \item Start Date: 1/9/12
-        \item End Date: 31/12/12
-        \item Shading: 0 and 45\%
-        \item LED Ratios: 1.29 1.03 .94 1.22 0.17 .91
-        \item 2010 weather
-      \end{itemize}
-    \subsection*{Results}
-      Solarcalc outputs:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv+\\
-            ddff182b78d1fe10e662fb827a179804
-          \item \verb+./2013-03/20130305-Temora2012Sep01_0shade_2010weather_LED-BetterNormalised.csv+\\
-            d41d8cd98f00b204e9800998ecf8427e
-      \end{itemize}
-      Solarcalc preferences files:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item \verb+./2013-03/20130305-Temora2012Sep01_0shade_2010weather_LED-BetterNormalised.srp+\\
-            9e800ba2b31a5346b37bc17127515d38
-          \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.srp+\\
-            d40480b773fdaad8ecf9bd14a5d445ed
-      \end{itemize}
+\section*{Creation of Better Normalised Shaded Solarcalc files}
+\subsection*{Aim:}
+Generate the solar calc files which will be used to control the conviron growth cabinents and
+heliospectra lights for the duration of the latter part of the experiment.
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Temora
+  \item Min Temp: 10 C
+  \item Max Humid.: 70
+  \item Start Date: 1/9/12
+  \item End Date: 31/12/12
+  \item Shading: 0 and 45\%
+  \item LED Ratios: 1.29 1.03 .94 1.22 0.17 .91
+  \item 2010 weather
+\end{itemize}
+
+\subsection*{Results}
+Solarcalc outputs:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+    \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv+\\
+      ddff182b78d1fe10e662fb827a179804
+    \item \verb+./2013-03/20130305-Temora2012Sep01_0shade_2010weather_LED-BetterNormalised.csv+\\
+      d41d8cd98f00b204e9800998ecf8427e
+\end{itemize}
+Solarcalc preferences files:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+    \item \verb+./2013-03/20130305-Temora2012Sep01_0shade_2010weather_LED-BetterNormalised.srp+\\
+      9e800ba2b31a5346b37bc17127515d38
+    \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.srp+\\
+      d40480b773fdaad8ecf9bd14a5d445ed
+\end{itemize}
+
+
 
 \chapter*{Thu 2013-03-07}
-  \section*{Creation of Brighter Normalised Shaded Solarcalc files}
-    \subsection*{Aim:}
-      Generate the solar calc files which will be used to control the conviron growth cabinents and
-      heliospectra lights for the duration of the latter part of the experiment.\\
-      These files are to increase the brightness of the high light treatment.\\
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Temora
-        \item Min Temp: 10 C
-        \item Max Humid.: 70
-        \item Start Date: 1/9/12
-        \item End Date: 31/12/12
-        \item Shading: 0
-        \item LED Ratios: \\
-          2x: 2.6 2.06 2 1.96 2.44 0.34 1.82\\
-          4x: 5.2 4.12 4 3.92 4.88 0.68 3.64
-        \item 2010 weather
-      \end{itemize}
-    \subsection*{Results}
-      Solarcalc outputs:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv+\\
-            59fcd4aacdf20eeb750c22b18ba4f118
-          \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-4xBetterNormalised.csv+\\
-            3d79e511b4367d1c5807b247fffa3b48
-      \end{itemize}
-      Solarcalc preferences files:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.srp+\\
-            bf276b2cf5658f00fbd02bce55f186f7
-          \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-4xBetterNormalised.srp+\\
-            3f124559d1553f68384218509196992d
-      \end{itemize}
+\section*{Creation of Brighter Normalised Shaded Solarcalc files}
+
+\subsection*{Aim:}
+Generate the solar calc files which will be used to control the conviron growth cabinents and
+heliospectra lights for the duration of the latter part of the experiment.\\
+These files are to increase the brightness of the high light treatment.\\
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Temora
+  \item Min Temp: 10 C
+  \item Max Humid.: 70
+  \item Start Date: 1/9/12
+  \item End Date: 31/12/12
+  \item Shading: 0
+  \item LED Ratios: \\
+    2x: 2.6 2.06 2 1.96 2.44 0.34 1.82\\
+    4x: 5.2 4.12 4 3.92 4.88 0.68 3.64
+  \item 2010 weather
+\end{itemize}
+
+\subsection*{Results}
+Solarcalc outputs:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+    \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv+\\
+      59fcd4aacdf20eeb750c22b18ba4f118
+    \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-4xBetterNormalised.csv+\\
+      3d79e511b4367d1c5807b247fffa3b48
+\end{itemize}
+Solarcalc preferences files:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+    \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.srp+\\
+      bf276b2cf5658f00fbd02bce55f186f7
+    \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-4xBetterNormalised.srp+\\
+      3f124559d1553f68384218509196992d
+\end{itemize}
+
+
 
 \chapter*{Sun 2013-03-10}
-  \section*{Creation of Intermittent Bright/Shaded Solarcalc files}
-    \subsection*{Aim:}
-      Generate the solar calc files which will be used to control the conviron growth cabinents and
-      heliospectra lights for the duration of the latter part of the experiment.\\
-      These files are to increase the brightness of the high light treatment.\\
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-          \item Location: Temora
-          \item Min Temp: 10 C
-          \item Max Humid.: 70
-          \item Start Date: 1/9/12
-          \item End Date: 31/12/12
-          \item Shading: High Light file: 0, Low Light files: 45
-          \item LED Ratios: \\
-            1x: 1.29 1.03 .94 1.22 0.17 .91\\
-            2x: 2.6 2.06 2 1.96 2.44 0.34 1.82
-          \item 2010 weather
-        \end{itemize}
-        \item Then, the spliceSolarCalc.py script was used to splice between them, using the command
-          line: \\
-          \footnotesize\begin{verbatim}
+\section*{Creation of Intermittent Bright/Shaded Solarcalc files}
+
+\subsection*{Aim:}
+Generate the solar calc files which will be used to control the conviron growth cabinents and
+heliospectra lights for the duration of the latter part of the experiment.\\
+These files are to increase the brightness of the high light treatment.\\
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+    \item Location: Temora
+    \item Min Temp: 10 C
+    \item Max Humid.: 70
+    \item Start Date: 1/9/12
+    \item End Date: 31/12/12
+    \item Shading: High Light file: 0, Low Light files: 45
+    \item LED Ratios: \\
+      1x: 1.29 1.03 .94 1.22 0.17 .91\\
+      2x: 2.6 2.06 2 1.96 2.44 0.34 1.82
+    \item 2010 weather
+  \end{itemize}
+  \item Then, the spliceSolarCalc.py script was used to splice between them, using the command
+    line: \\
+    \footnotesize\begin{verbatim}
 python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
-    -f 2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv \
-    -F 2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv \
-    -1 120 -2 60 # 2h Low, 1h High
-          \end{verbatim}
-      \end{itemize}
-    \subsection*{Results}
-      Solarcalc inputs:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv+\\
-          ddff182b78d1fe10e662fb827a179804
-        \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv+\\
-          59fcd4aacdf20eeb750c22b18ba4f118
-      \end{itemize}
-      Solarcalc preferences files:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.srp+\\
-          d40480b773fdaad8ecf9bd14a5d445ed
-        \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.srp+\\
-          bf276b2cf5658f00fbd02bce55f186f7
-      \end{itemize}
-      Solarcalc Output:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item \verb+2013-03/20130310-KMTemora2012Sep01_Intermittent2hLL1hHL.csv+ \\
-          c415ed3654b071ad6fbcbd044b60f732
-      \end{itemize}
-      Solarcalc Splice Script: \\
-      \verb+./2013-03/20130310-spliceSolarCalc.py+ 6cd8ea9895d19b7851c41c086535f318\\
+-f 2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv \
+-F 2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv \
+-1 120 -2 60 # 2h Low, 1h High
+    \end{verbatim}
+\end{itemize}
+
+\subsection*{Results}
+Solarcalc inputs:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.csv+\\
+    ddff182b78d1fe10e662fb827a179804
+  \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.csv+\\
+    59fcd4aacdf20eeb750c22b18ba4f118
+\end{itemize}
+Solarcalc preferences files:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+./2013-03/20130305-Temora2012Sep01_45shade_2010weather_LED-BetterNormalised.srp+\\
+    d40480b773fdaad8ecf9bd14a5d445ed
+  \item \verb+./2013-03/20130307-KMTemora2012Sep01_0shade_2010weather_LED-2xBetterNormalised.srp+\\
+    bf276b2cf5658f00fbd02bce55f186f7
+\end{itemize}
+Solarcalc Output:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item \verb+2013-03/20130310-KMTemora2012Sep01_Intermittent2hLL1hHL.csv+ \\
+    c415ed3654b071ad6fbcbd044b60f732
+\end{itemize}
+Solarcalc Splice Script: \\
+\verb+./2013-03/20130310-spliceSolarCalc.py+ 6cd8ea9895d19b7851c41c086535f318\\
+
+
 
 \chapter*{Fri 2013-03-19}
-  \section*{Enter plants in trayscan database}
-    \subsection*{Aim}
-      Allow trayscan to see and process out plants
-    \subsection*{Method}
-      Using the tray registrator, the attached csv was registered in the database. The registration
-      may have failed, PSI will fix the database to reflect it.
-    \subsection*{Results}
-      \verb+./2013-03/20130320-TrayscanImportSheet.csv+ \\
-      \verb+MD5SUM: 69b97ec5cd3f30c10c0d7b21da59a35b+\\
+
+\section*{Enter plants in trayscan database}
+
+\subsection*{Aim}
+Allow trayscan to see and process out plants
+\subsection*{Method}
+Using the tray registrator, the attached csv was registered in the database. The registration
+may have failed, PSI will fix the database to reflect it.
+\subsection*{Results}
+\verb+./2013-03/20130320-TrayscanImportSheet.csv+ \\
+\verb+MD5SUM: 69b97ec5cd3f30c10c0d7b21da59a35b+\\
+
+
 
 \chapter*{Mon 2013-03-25}
-  \section*{Harvesting of practice tissue}
-    \subsection*{Aim}
-      Harvest unimportant tissue from extra plants to use for pracice RNA preps.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Plants had been grown since germination in convirons 8 \& 9 under standard growth
-          conditions
-        \item Leaves were harvested from each plant into a 96-well 1.2mL plate on dry ice
-        \item the plant number as per ./2013-02/20130208-KMPlantedLines.csv was recorded
-      \end{itemize}
-    \subsection*{Results}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item The plate was labelled ``Harvest Tissue Plate'', and stored in -80.
-        \item The samples are laid out as described below:
-      \end{itemize}
-      \DTLloaddb{practiceplatelayout}{./2013-03/20130325-practiceHarvestPlate.csv}
-      \DTLdisplaylongdb{practiceplatelayout}
+
+\section*{Harvesting of practice tissue}
+
+\subsection*{Aim}
+Harvest unimportant tissue from extra plants to use for pracice RNA preps.
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Plants had been grown since germination in convirons 8 \& 9 under standard growth
+    conditions
+  \item Leaves were harvested from each plant into a 96-well 1.2mL plate on dry ice
+  \item the plant number as per ./2013-02/20130208-KMPlantedLines.csv was recorded
+\end{itemize}
+
+\subsection*{Results}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item The plate was labelled ``Harvest Tissue Plate'', and stored in -80.
+  \item The samples are laid out as described below:
+\end{itemize}
+\DTLloaddb{practiceplatelayout}{./2013-03/20130325-practiceHarvestPlate.csv}
+\DTLdisplaylongdb{practiceplatelayout}
+
+
 
 \chapter*{Tue 2013-03-26}
-  \section*{Harvesing the First Replicate across each chamber}
-    \subsection*{Aim}
-      Harvest the actual experimental samples. Today, the first replicate will be harvested.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
-          be summarised later)
-        \item Leaves were excised and genly rolled (where possible) between fingers, without
-          breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
-          most cases, for faster freezing.
-        \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
-          were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
-          tweezers, using tweezer blades to cut the leaf.
-        \item Harvesting started at 12:00. Detailed in the table below.
-      \end{itemize}
-      \DTLloaddb{marday1harvtime}{./2013-03/20130326-HarvestTimes.csv}
-      \DTLdisplaylongdb{marday1harvtime}
-    \subsection*{Results}
-      \scriptsize
-      \begin{landscape}
-        The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
-        C, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
-        leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
-        Plate 1:\\
-        \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
-        \DTLdisplaylongdb{marharvestplate1}
-        Plate 2:\\
-        \DTLloaddb{marharvestplate2}{./2013-03/20130326-harvestplate2.csv}
-        \DTLdisplaylongdb{marharvestplate2}
-        Plate 3:\\
-        \DTLloaddb{marharvestplate3}{./2013-03/20130326-harvestplate3.csv}
-        \DTLdisplaylongdb{marharvestplate3}
-        Plate 4:\\
-        \DTLloaddb{marharvestplate4}{./2013-03/20130326-harvestplate4.csv}
-        \DTLdisplaylongdb{marharvestplate4}
-      \end{landscape}
+
+\section*{Harvesing the First Replicate across each chamber}
+
+\subsection*{Aim}
+Harvest the actual experimental samples. Today, the first replicate will be harvested.
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
+    be summarised later)
+  \item Leaves were excised and genly rolled (where possible) between fingers, without
+    breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
+    most cases, for faster freezing.
+  \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
+    were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
+    tweezers, using tweezer blades to cut the leaf.
+  \item Harvesting started at 12:00. Detailed in the table below.
+\end{itemize}
+\DTLloaddb{marday1harvtime}{./2013-03/20130326-HarvestTimes.csv}
+\DTLdisplaylongdb{marday1harvtime}
+
+\subsection*{Results}
+\scriptsize
+\begin{landscape}
+  The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
+  C, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
+  leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
+  Plate 1:\\
+  \DTLloaddb{marharvestplate1}{./2013-03/20130326-harvestplate1.csv}
+  \DTLdisplaylongdb{marharvestplate1}
+  Plate 2:\\
+  \DTLloaddb{marharvestplate2}{./2013-03/20130326-harvestplate2.csv}
+  \DTLdisplaylongdb{marharvestplate2}
+  Plate 3:\\
+  \DTLloaddb{marharvestplate3}{./2013-03/20130326-harvestplate3.csv}
+  \DTLdisplaylongdb{marharvestplate3}
+  Plate 4:\\
+  \DTLloaddb{marharvestplate4}{./2013-03/20130326-harvestplate4.csv}
+  \DTLdisplaylongdb{marharvestplate4}
+\end{landscape}
+
+
 
 \chapter*{Wed 2013-03-27}
-  \section*{Harvesing the Second Replicate across each chamber}
-    \subsection*{Aim}
-      Harvest the actual experimental samples. Today, the second replicate will be harvested.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
-          be summarised later)
-        \item Procedure was as per yesterday
-        \item Leaves were excised and genly rolled (where possible) between fingers, without
-          breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
-          most cases, for faster freezing.
-        \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
-          were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
-          tweezers, using tweezer blades to cut the leaf.
-        \item Harvesting started at 11:30. Detailed in the table below.
-      \end{itemize}
-      \DTLloaddb{marday2harvtime}{./2013-03/20130327-HarvestTimes.csv}
-      \DTLdisplaylongdb{marday2harvtime}
-    \subsection*{Results}
-      \scriptsize
-      \begin{landscape}
-        The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
-        C, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
-        leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
-        Plate 5:\\
-        \DTLloaddb{marharvestplate5}{./2013-03/20130327-harvestplate5.csv}
-        \DTLdisplaylongdb{marharvestplate5}
-        Plate 6:\\
-        \DTLloaddb{marharvestplate6}{./2013-03/20130327-harvestplate6.csv}
-        \DTLdisplaylongdb{marharvestplate6}
-        Plate 7:\\
-        \DTLloaddb{marharvestplate7}{./2013-03/20130327-harvestplate7.csv}
-        \DTLdisplaylongdb{marharvestplate7}
-        Plate 8:\\
-        \DTLloaddb{marharvestplate8}{./2013-03/20130327-harvestplate8.csv}
-        \DTLdisplaylongdb{marharvestplate8}
-      \end{landscape}
+
+\section*{Harvesing the Second Replicate across each chamber}
+
+\subsection*{Aim}
+Harvest the actual experimental samples. Today, the second replicate will be harvested.
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
+    be summarised later)
+  \item Procedure was as per yesterday
+  \item Leaves were excised and genly rolled (where possible) between fingers, without
+    breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
+    most cases, for faster freezing.
+  \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
+    were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
+    tweezers, using tweezer blades to cut the leaf.
+  \item Harvesting started at 11:30. Detailed in the table below.
+\end{itemize}
+\DTLloaddb{marday2harvtime}{./2013-03/20130327-HarvestTimes.csv}
+\DTLdisplaylongdb{marday2harvtime}
+
+\subsection*{Results}
+\scriptsize
+\begin{landscape}
+  The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
+  C, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
+  leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
+  Plate 5:\\
+  \DTLloaddb{marharvestplate5}{./2013-03/20130327-harvestplate5.csv}
+  \DTLdisplaylongdb{marharvestplate5}
+  Plate 6:\\
+  \DTLloaddb{marharvestplate6}{./2013-03/20130327-harvestplate6.csv}
+  \DTLdisplaylongdb{marharvestplate6}
+  Plate 7:\\
+  \DTLloaddb{marharvestplate7}{./2013-03/20130327-harvestplate7.csv}
+  \DTLdisplaylongdb{marharvestplate7}
+  Plate 8:\\
+  \DTLloaddb{marharvestplate8}{./2013-03/20130327-harvestplate8.csv}
+  \DTLdisplaylongdb{marharvestplate8}
+\end{landscape}
+
+
 
 \chapter*{Thu 2013-03-28}
-  \section*{Harvesing the Third Replicate across each chamber}
-    \subsection*{Aim}
-      Harvest the actual experimental samples. Today, the third replicate will be harvested.
-    \subsection*{Method}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
-          be summarised later)
-        \item Procedure was as per yesterday
-        \item Leaves were excised and genly rolled (where possible) between fingers, without
-          breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
-          most cases, for faster freezing.
-        \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
-          were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
-          tweezers, using tweezer blades to cut the leaf.
-        \item Harvesting started at 11:30. Detailed in the table below.
-      \end{itemize}
-      \DTLloaddb{marday3harvtime}{./2013-03/20130328-HarvestTimes.csv}
-      \DTLdisplaylongdb{marday3harvtime}
-    \subsection*{Results}
-      \scriptsize
-      \begin{landscape}
-        The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
-        C/caul, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
-        leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
-        Plate 9:\\
-        \DTLloaddb{marharvestplate9}{./2013-03/20130328-harvestplate9.csv}
-        \DTLdisplaylongdb{marharvestplate9}
-        Plate 10:\\
-        \DTLloaddb{marharvestplate10}{./2013-03/20130328-harvestplate10.csv}
-        \DTLdisplaylongdb{marharvestplate10}
-        Plate 11:\\
-        \DTLloaddb{marharvestplate11}{./2013-03/20130328-harvestplate11.csv}
-        \DTLdisplaylongdb{marharvestplate11}
-        Plate 12:\\
-        \DTLloaddb{marharvestplate12}{./2013-03/20130328-harvestplate12.csv}
-        \DTLdisplaylongdb{marharvestplate12}
-      \end{landscape}
+
+\section*{Harvesing the Third Replicate across each chamber}
+
+\subsection*{Aim}
+Harvest the actual experimental samples. Today, the third replicate will be harvested.
+
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Leaves were taken from plants grown under experiment conditions (recorded by Keng, to
+    be summarised later)
+  \item Procedure was as per yesterday
+  \item Leaves were excised and genly rolled (where possible) between fingers, without
+    breaking or squashing them. This allowed them to unroll to fill the edges of the wells in
+    most cases, for faster freezing.
+  \item Approx 1.5x1.5cm sections were taken when leaves exceeded this size. Tip end of leaves
+    were taken if a leaf was torn. Leaves were torn once rolled by quckly plucking them with
+    tweezers, using tweezer blades to cut the leaf.
+  \item Harvesting started at 11:30. Detailed in the table below.
+\end{itemize}
+\DTLloaddb{marday3harvtime}{./2013-03/20130328-HarvestTimes.csv}
+\DTLdisplaylongdb{marday3harvtime}
+
+\subsection*{Results}
+\scriptsize
+\begin{landscape}
+  The plate layout is described below. Abbreviations are: S, small, 2S, 2x small (and so on),
+  C/caul, cauline leaves, sq, squashed leaf while harvesting, sen, some senescence on harvested
+  leaf (only a small amount of senescence was allowed), P, purple/anthocyanin accumulation. \\
+  Plate 9:\\
+  \DTLloaddb{marharvestplate9}{./2013-03/20130328-harvestplate9.csv}
+  \DTLdisplaylongdb{marharvestplate9}
+  Plate 10:\\
+  \DTLloaddb{marharvestplate10}{./2013-03/20130328-harvestplate10.csv}
+  \DTLdisplaylongdb{marharvestplate10}
+  Plate 11:\\
+  \DTLloaddb{marharvestplate11}{./2013-03/20130328-harvestplate11.csv}
+  \DTLdisplaylongdb{marharvestplate11}
+  Plate 12:\\
+  \DTLloaddb{marharvestplate12}{./2013-03/20130328-harvestplate12.csv}
+  \DTLdisplaylongdb{marharvestplate12}
+\end{landscape}
+
 
 \chapter*{Fri 2013-04-26}
-  \section*{Trayscan Test}
-    \subsection*{Aim}
-      Test the tray registrator function of the trayscan, as instructed by Petr Ent.
-    \subsection*{Method}
-      A test tray was made, and placed in the trayscan for PSI to test.\\
-      The tray registration was as per the attached file:\\
-      \verb+./2013-04/20130426-TrayscanTest.csv+ \\
-      \verb+MD5SUM: b6716d2b3c2b63adc36ef6d6a1a11104+
-  \section*{Corrected Trayscan Import File}
-    \subsection*{Aim}
-      Fix difference between the file which we imported into trayscan and the tray labels by which
-      the phenotypic data was recorded.
-    \subsection*{Method}
-      The format of the tray identifiers was changed to reflect the label format. No other changes
-      were made.\\
-      File attachement:\\
-      \verb+./2013-04/20130426-CorrectedTrayscanImportSheet.csv+\\
-      MD5SUM: ba68cc9c73d63b648899dac35129ace5\\
-  \section*{Count of all sampled plants}
-    \subsection*{Aim}
-      To determine the number of plants (for tim's abstract)
-    \subsection*{Method}
-      The number of RIX, mutant and parental lines which survived to sampling week were counted.
-    \subsection*{Results}
-      \DTLloaddb{0426plantcounts}{2013-04/20130426-ChamberPlantSummaries.csv}
-      \DTLdisplaydb{0426plantcounts}
+
+\section*{Trayscan Test}
+
+\subsection*{Aim}
+Test the tray registrator function of the trayscan, as instructed by Petr Ent.
+
+\subsection*{Method}
+A test tray was made, and placed in the trayscan for PSI to test.\\
+The tray registration was as per the attached file:\\
+\verb+./2013-04/20130426-TrayscanTest.csv+ \\
+\verb+MD5SUM: b6716d2b3c2b63adc36ef6d6a1a11104+
+
+
+\section*{Corrected Trayscan Import File}
+
+\subsection*{Aim}
+Fix difference between the file which we imported into trayscan and the tray labels by which
+the phenotypic data was recorded.
+
+\subsection*{Method}
+The format of the tray identifiers was changed to reflect the label format. No other changes
+were made.\\
+File attachement:\\
+\verb+./2013-04/20130426-CorrectedTrayscanImportSheet.csv+\\
+MD5SUM: ba68cc9c73d63b648899dac35129ace5\\
+
+
+\section*{Count of all sampled plants}
+
+\subsection*{Aim}
+To determine the number of plants (for tim's abstract)
+
+\subsection*{Method}
+The number of RIX, mutant and parental lines which survived to sampling week were counted.
+
+\subsection*{Results}
+\DTLloaddb{0426plantcounts}{2013-04/20130426-ChamberPlantSummaries.csv}
+\DTLdisplaydb{0426plantcounts}
 
 
 \chapter*{Mon 2013-05-06}
-  \section*{Development of Undistortion script}
-    \subsection*{Aim}
-      Trial parameters to Imagemagick's convert binary to get best undistortion of barrel
-      distortion.
-    \subsection*{Method}
-      To test the different parameters to the barrel undistortion model, the following command was
-      run, with params subsituted for the model parameters below. The original image was from the
-      stardot 5mp webcams.\\
-      \verb+convert -distort Barrel <params> orig.jpeg undist.jpeg+\\
-      The parameters below were tested:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item ``0.0 0.0 -0.15 1.15''
-        \item ``0.0 0.0 -0.10 1.10''
-        \item ``0.0 0.0 -0.05 1.05''
-        \item ``0.0 0.0 -0.5 1.5''
-        \item ``0.0 0.0 -0.11 1.11''
-      \end{itemize}
-    \subsection*{Results}
-      The parameters ``0.0 0.0 -0.15 1.15'' appeared to work best. Chromatic aberration is
-      problematic. Will try to use fulla from the hugin toolkit.
+
+\section*{Development of Undistortion script}
+
+\subsection*{Aim}
+Trial parameters to Imagemagick's convert binary to get best undistortion of barrel
+distortion.
+
+\subsection*{Method}
+To test the different parameters to the barrel undistortion model, the following command was
+run, with params subsituted for the model parameters below. The original image was from the
+stardot 5mp webcams.\\
+\verb+convert -distort Barrel <params> orig.jpeg undist.jpeg+\\
+The parameters below were tested:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item ``0.0 0.0 -0.15 1.15''
+  \item ``0.0 0.0 -0.10 1.10''
+  \item ``0.0 0.0 -0.05 1.05''
+  \item ``0.0 0.0 -0.5 1.5''
+  \item ``0.0 0.0 -0.11 1.11''
+\end{itemize}
+
+\subsection*{Results}
+The parameters ``0.0 0.0 -0.15 1.15'' appeared to work best. Chromatic aberration is
+problematic. Will try to use fulla from the hugin toolkit.
+
 
 
 \chapter*{Wed 2013-05-15}
-  \section*{Creation of Caroline Chong's Solarcalc files}
-    \subsection*{Aim}
-      Create solarcalc files for Caroline Chong's Pelargonium.
-    \subsection*{Method}
-      Using the parameters below, solarcalc output for her new pelargonium experiment was
-      generated.\\
-      BotriverCurrent.csv:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Botrivier -34.219136°S, 19.195707°E
-        \item Min Temp: 5 C
-        \item Max Humid.: 85
-        \item Start Date: 1/11/12
-        \item End Date: 31/12/13
-        \item Shading: 0
-        \item LED Ratios: \\
-          4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2010 weather (current)
-      \end{itemize}
 
-      BotriverFuture.csv:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Botrivier -34.219136°S, 19.195707°E
-        \item Min Temp: 5 C
-        \item Max Humid.: 85
-        \item Start Date: 1/11/12
-        \item End Date: 31/12/13
-        \item Shading: 0
-        \item LED Ratios: \\
-          4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2040 weather
-      \end{itemize}
+\section*{Creation of Caroline Chong's Solarcalc files}
 
-      TilbaCurrent.csv:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Tilba -36.377685°S 150.069347°E
-        \item Min Temp: 5 C
-        \item Max Humid.: 85
-        \item Start Date: 1/11/12
-        \item End Date: 31/12/13
-        \item Shading: 0
-        \item LED Ratios: \\
-          4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2010 weather (current)
-      \end{itemize}
+\subsection*{Aim}
+Create solarcalc files for Caroline Chong's Pelargonium.
 
-      TilbaFuture.csv:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
-          used.
-        \item Location: Tilba -36.377685°S 150.069347°E
-        \item Min Temp: 5 C
-        \item Max Humid.: 85
-        \item Start Date: 1/11/12
-        \item End Date: 31/12/13
-        \item Shading: 0
-        \item LED Ratios: \\
-          4x: 5.2 4.12 4 3.92 4.88 1 3.64
-        \item 2040 weather
-      \end{itemize}
+\subsection*{Method}
+Using the parameters below, solarcalc output for her new pelargonium experiment was
+generated.\\
+BotriverCurrent.csv:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Botrivier -34.219136°S, 19.195707°E
+  \item Min Temp: 5 C
+  \item Max Humid.: 85
+  \item Start Date: 1/11/12
+  \item End Date: 31/12/13
+  \item Shading: 0
+  \item LED Ratios: \\
+    4x: 5.2 4.12 4 3.92 4.88 1 3.64
+  \item 2010 weather (current)
+\end{itemize}
 
-    \subsection*{Results}
-      The following files have been attached:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item ./2013-05/20130515-CarolineSolarcalcLocations.kmz md5sum
-          9a5be15bd5bcc854e2f27f33fb1e34e0
-        \item ./2013-05/20130515-BotrivierCurrent.csv md5sum fbe6cea104e11eb9a35448b8be45613d
-        \item ./2013-05/20130515-BotrivierCurrent.srp md5sum bdc0b67c73750e5c774e63d7a66aaaa1
-        \item ./2013-05/20130515-BotriverFuture.csv md5sum 36690160162125160371620976923986
-        \item ./2013-05/20130515-BotriverFuture.srp md5sum 646c0bb13b39868ba0426000af9532aa
-        \item ./2013-05/20130515-TilbaCurrent.csv md5sum 4875aa65f83b86ead8f7008d724d54dc
-        \item ./2013-05/20130515-TilbaCurrent.srp md5sum 878d3193b493a2ced5d69a32bfe8e3bf
-        \item ./2013-05/20130515-TilbaFuture.csv md5sum 4ae75c0b7ff77eef4f7355cbc42fddb6
-        \item ./2013-05/20130515-TilbaFuture.srp md5sum 3544f9404cc1687f609b674767ac2f48
-      \end{itemize}
+BotriverFuture.csv:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Botrivier -34.219136°S, 19.195707°E
+  \item Min Temp: 5 C
+  \item Max Humid.: 85
+  \item Start Date: 1/11/12
+  \item End Date: 31/12/13
+  \item Shading: 0
+  \item LED Ratios: \\
+    4x: 5.2 4.12 4 3.92 4.88 1 3.64
+  \item 2040 weather
+\end{itemize}
+
+TilbaCurrent.csv:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Tilba -36.377685°S 150.069347°E
+  \item Min Temp: 5 C
+  \item Max Humid.: 85
+  \item Start Date: 1/11/12
+  \item End Date: 31/12/13
+  \item Shading: 0
+  \item LED Ratios: \\
+    4x: 5.2 4.12 4 3.92 4.88 1 3.64
+  \item 2010 weather (current)
+\end{itemize}
+
+TilbaFuture.csv:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item SolarCalc version 2013 Feb C (zip file MD5SUM: 0b2b456771eb44ed1fa8ed1a087bfbd0) was
+    used.
+  \item Location: Tilba -36.377685°S 150.069347°E
+  \item Min Temp: 5 C
+  \item Max Humid.: 85
+  \item Start Date: 1/11/12
+  \item End Date: 31/12/13
+  \item Shading: 0
+  \item LED Ratios: \\
+    4x: 5.2 4.12 4 3.92 4.88 1 3.64
+  \item 2040 weather
+\end{itemize}
+
+\subsection*{Results}
+The following files have been attached:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item ./2013-05/20130515-CarolineSolarcalcLocations.kmz md5sum
+    9a5be15bd5bcc854e2f27f33fb1e34e0
+  \item ./2013-05/20130515-BotrivierCurrent.csv md5sum fbe6cea104e11eb9a35448b8be45613d
+  \item ./2013-05/20130515-BotrivierCurrent.srp md5sum bdc0b67c73750e5c774e63d7a66aaaa1
+  \item ./2013-05/20130515-BotriverFuture.csv md5sum 36690160162125160371620976923986
+  \item ./2013-05/20130515-BotriverFuture.srp md5sum 646c0bb13b39868ba0426000af9532aa
+  \item ./2013-05/20130515-TilbaCurrent.csv md5sum 4875aa65f83b86ead8f7008d724d54dc
+  \item ./2013-05/20130515-TilbaCurrent.srp md5sum 878d3193b493a2ced5d69a32bfe8e3bf
+  \item ./2013-05/20130515-TilbaFuture.csv md5sum 4ae75c0b7ff77eef4f7355cbc42fddb6
+  \item ./2013-05/20130515-TilbaFuture.srp md5sum 3544f9404cc1687f609b674767ac2f48
+\end{itemize}
 
 
-  \section*{Testing of tissuelyzer settings and protocol}
-    \subsection*{Aim}
-      Test which settings in the tissuelyzer are optimal for grinding tissue in 96 well plates.
-    \subsection*{Method/Results}
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Remove plate containing tissue from -80, and place in tray with LN2.
-        \item Remove silicone tray mat, and repalce with Qiagen collection tube strip caps
-        \item As the plates did not have ball bearings, I added LN2-frozen balls to the top of each
-          plate.
-        \item Freeze tissuelyzer blocks in LN2
-        \item Pour LN2 into tissuelyzer base (the section with the rubber)
-        \item Place plate with bottom in base, and put in machine. Don't add ln2 to the top of the
-          plate
-        \item Run machine (with counterbalance) for 1 min at 25hz
-        \item Remove plate. After inspection, some wells were not pulverised, due to the bead being
-          stuck, so i banged the plate against the desk quite hard about 5 times to dislodge it
-        \item Run for another minute. The tissues appeared to have been ground more thoroughly.
-        \item Spin plate at 6k RPM for 1 minute. This got most of the tissue to the bottom to the
-          tube. Some remained around the lids, and seemed to thaw slightly.
-        \item The plate was put back into the -80
-      \end{itemize}
+
+\section*{Testing of tissuelyzer settings and protocol}
+
+\subsection*{Aim}
+Test which settings in the tissuelyzer are optimal for grinding tissue in 96 well plates.
+
+\subsection*{Method/Results}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Remove plate containing tissue from -80, and place in tray with LN2.
+  \item Remove silicone tray mat, and repalce with Qiagen collection tube strip caps
+  \item As the plates did not have ball bearings, I added LN2-frozen balls to the top of each
+    plate.
+  \item Freeze tissuelyzer blocks in LN2
+  \item Pour LN2 into tissuelyzer base (the section with the rubber)
+  \item Place plate with bottom in base, and put in machine. Don't add ln2 to the top of the
+    plate
+  \item Run machine (with counterbalance) for 1 min at 25hz
+  \item Remove plate. After inspection, some wells were not pulverised, due to the bead being
+    stuck, so i banged the plate against the desk quite hard about 5 times to dislodge it
+  \item Run for another minute. The tissues appeared to have been ground more thoroughly.
+  \item Spin plate at 6k RPM for 1 minute. This got most of the tissue to the bottom to the
+    tube. Some remained around the lids, and seemed to thaw slightly.
+  \item The plate was put back into the -80
+\end{itemize}
+
 
 
 \chapter*{Thu 2013-05-16}
-  \section*{Practice Kumar et al Library Prep}
-    \subsection*{Aim}
-      Take two samples up to first strand synthesis
-    \subsection*{Method}
-      Make fresh LBB and additives (hereafter LBBMA):
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Add 6mL LBB from dynabeads kit to 15mL falcon tube
-        \item add 30uL mercapto ethanol and $\approx$ 90uL antifoam A. (antifoam A is V. viscous,
-          could not be accurately pippeted)
-      \end{itemize}
 
-      Preps:
-      \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
-        \item Using practice plate from march harvest harvest, tissuelysed wed 15/5/13
-        \item A2: Add 1mL LBBMA, pippete to mix, breif vortex, pipette into eppie, vortex again.
-          Sample had many chunks which did not resuspend, spilt some lysates.
-        \item A3: Add 500uL LBBMA, use 200uL pippetor to mix, then add extra 500uL and mix w/ 1000ul
-          pippettor. Tfr to new tube. May not have added 500uL the second time, so added $\approx$
-          200uL extra.
-        \item Left A1 8min and A2 5min at RT
-        \item Tfr -> qiashredder, spin 10k rpm, 10min
-        \item Prepare dynabeads:\\
-          Resuspend bottle w/ v. gentle vortex\\
-          150uL -> fresh eppie\\
-          vortex, spin, mag sep, remove supn.\\
-          add 100uL LBBMA, resusp., centrifuge, resusp, 50uL ea to 2 new tubes
-        \item mag sep, remove supn
-        \item 200uL lysates -> each tube, rest of lysates onto dry ice
-        \item pip to mix, incubate @ rt w/ hand mixing, 10min
-        \item sep on mag sep, 15 min
-        \item wash per protocol (steps 1.3 5-6) w/ LBBMA, not straight LBB
-        \item leave in WBB 20min while DNAse MM was made
-        \item Make 20uL DNAse MM per protocol, with 5\% extra, using DEPC mQ water
-        \item wash beads again w/ WBB (NOT Low Salt Buffer)
-        \item add 18uL TrisHCL from dynabeads kit, resusp. 2uL -> extra tubes, for bioanalyser
-        \item add 10uL DNAase MM to 15uL, incubate 10min at 37C in pcr machine
-        \item add 1.5uL 0.22uM filtered EDTA, pip to mix, incubate 75C for 10min
-        \item samples -> ice for 10min, add 175 LBBMA, mix
-        \item incubate RT with hand mixing 10min
-        \item mag sep beads for 10min
-        \item wash per steps 1.3 5-6, but w/ 150uL WBA for sample A3 in step 5
-        \item Wash w/ 200uL WBB again (not LSB)
-        \item Make 13uL primer/dntp mix:\\
-          10mM Tris from dynabeads kit, 11.6uL\\
-          25mM DNTPs from Pete\\
-          Random primers from sigma\\
-        \item incubate, prepare FS cDNA MM, add sample and run synthesis rxn in PCR machine as per
-          protocol, steps 1.3 step 18 - 2.1 step 5
-        \item Freeze sample at -20C
-      \end{itemize}
-    \subsection*{Results}
-      None yet
+\section*{Practice Kumar et al Library Prep}
+
+\subsection*{Aim}
+Take two samples up to first strand synthesis
+
+\subsection*{Method}
+Make fresh LBB and additives (hereafter LBBMA):
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Add 6mL LBB from dynabeads kit to 15mL falcon tube
+  \item add 30uL mercapto ethanol and $\approx$ 90uL antifoam A. (antifoam A is V. viscous,
+    could not be accurately pippeted)
+\end{itemize}
+
+Preps:
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Using practice plate from march harvest harvest, tissuelysed wed 15/5/13
+  \item A2: Add 1mL LBBMA, pippete to mix, breif vortex, pipette into eppie, vortex again.
+    Sample had many chunks which did not resuspend, spilt some lysates.
+  \item A3: Add 500uL LBBMA, use 200uL pippetor to mix, then add extra 500uL and mix w/ 1000ul
+    pippettor. Tfr to new tube. May not have added 500uL the second time, so added $\approx$
+    200uL extra.
+  \item Left A1 8min and A2 5min at RT
+  \item Tfr -> qiashredder, spin 10k rpm, 10min
+  \item Prepare dynabeads:\\
+    Resuspend bottle w/ v. gentle vortex\\
+    150uL -> fresh eppie\\
+    vortex, spin, mag sep, remove supn.\\
+    add 100uL LBBMA, resusp., centrifuge, resusp, 50uL ea to 2 new tubes
+  \item mag sep, remove supn
+  \item 200uL lysates -> each tube, rest of lysates onto dry ice
+  \item pip to mix, incubate @ rt w/ hand mixing, 10min
+  \item sep on mag sep, 15 min
+  \item wash per protocol (steps 1.3 5-6) w/ LBBMA, not straight LBB
+  \item leave in WBB 20min while DNAse MM was made
+  \item Make 20uL DNAse MM per protocol, with 5\% extra, using DEPC mQ water
+  \item wash beads again w/ WBB (NOT Low Salt Buffer)
+  \item add 18uL TrisHCL from dynabeads kit, resusp. 2uL -> extra tubes, for bioanalyser
+  \item add 10uL DNAase MM to 15uL, incubate 10min at 37C in pcr machine
+  \item add 1.5uL 0.22uM filtered EDTA, pip to mix, incubate 75C for 10min
+  \item samples -> ice for 10min, add 175 LBBMA, mix
+  \item incubate RT with hand mixing 10min
+  \item mag sep beads for 10min
+  \item wash per steps 1.3 5-6, but w/ 150uL WBA for sample A3 in step 5
+  \item Wash w/ 200uL WBB again (not LSB)
+  \item Make 13uL primer/dntp mix:\\
+    10mM Tris from dynabeads kit, 11.6uL\\
+    25mM DNTPs from Pete\\
+    Random primers from sigma\\
+  \item incubate, prepare FS cDNA MM, add sample and run synthesis rxn in PCR machine as per
+    protocol, steps 1.3 step 18 - 2.1 step 5
+  \item Freeze sample at -20C
+\end{itemize}
+
+\subsection*{Results}
+None yet
+
+
 
 \chapter*{Thu 2013-06-06}
-  \section*{Create Condtions for keng}
-    \subsection*{Aim}
-      Make solarcalc conditions for keng.
-    \subsection*{Method}
-      as described in the .srp files attached.
-    \subsection*{Results}
-      2013-06/20130606-GriffithCurrent100Light.srp
-      2013-06/20130606-GrifithCurrent100Light.csv
-      2013-06/20130606-MilduraCurrent100Light.csv
-      2013-06/20130606-MilduraCurrent100Light.srp
-      2013-06/20130606-TemoraCurrent100Light.csv
-      2013-06/20130606-TemoraCurrent100Light.srp
-      2013-06/20130606-TemoraCurrent50Light.csv
-      2013-06/20130606-TemoraCurrent50Light.srp
-      2013-06/20130606-UmeaCurrent100Light.csv
-      2013-06/20130606-UmeaCurrent100Light.srp
-      2013-06/20130606-UmeaCurrent100LightTZ.srp
-      2013-06/20130606-WollongongCurrent100Light.csv
-      2013-06/20130606-WollongongCurrent100Light.srp
-      2013-06/20130606-WollongongCurrent35Light.csv
-      2013-06/20130606-WollongongCurrent35Light.srp
-      2013-06/20130606-ZaragozaCurrent100Light.csv
-      2013-06/20130606-ZaragozaCurrent100Light.srp
-      \\
-      \begin{figure}[h]
-        \begin{center}
-          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengLight.png}
-        \end{center}
-        \caption{Light}
-        \label{fig:20130606-light}
-      \end{figure}
-      \begin{figure}[h]
-        \begin{center}
-          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengRHs.png}
-        \end{center}
-        \caption{RH}
-        \label{fig:20130606-RH}
-      \end{figure}
-      \begin{figure}[h]
-        \begin{center}
-          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengHL-LL-ratio.png}
-        \end{center}
-        \caption{Light Ratio (WollongongCurrent100Light / WollongongCurrent35Light)}
-        \label{fig:20130606-lightratio}
-      \end{figure}
-      \begin{figure}[h]
-        \begin{center}
-          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengTemps.png}
-        \end{center}
-        \caption{Temp}
-        \label{fig:20130606-Temp}
-      \end{figure}
 
-  \section*{Spanish conditions}
-    \subsection*{Aim}
-      Create some inland spanish inland/coastal conditions for comparison.
-    \subsection*{Method}
-      See .srp files attached
-    \subsection*{Results}
-      The inland condition is too cold, so we won't use these.
-      \begin{figure}[h]
-        \begin{center}
-          \includegraphics[width=0.8\textwidth]{./2013-06/20130606-SpainContrastTemp.png}
-        \end{center}
-        \caption{Spain Temps}
-        \label{fig:20130606-spaintemp}
-      \end{figure}
+\section*{Create Condtions for keng}
+
+\subsection*{Aim}
+Make solarcalc conditions for keng.
+
+\subsection*{Method}
+as described in the .srp files attached.
+
+\subsection*{Results}
+2013-06/20130606-GriffithCurrent100Light.srp
+2013-06/20130606-GrifithCurrent100Light.csv
+2013-06/20130606-MilduraCurrent100Light.csv
+2013-06/20130606-MilduraCurrent100Light.srp
+2013-06/20130606-TemoraCurrent100Light.csv
+2013-06/20130606-TemoraCurrent100Light.srp
+2013-06/20130606-TemoraCurrent50Light.csv
+2013-06/20130606-TemoraCurrent50Light.srp
+2013-06/20130606-UmeaCurrent100Light.csv
+2013-06/20130606-UmeaCurrent100Light.srp
+2013-06/20130606-UmeaCurrent100LightTZ.srp
+2013-06/20130606-WollongongCurrent100Light.csv
+2013-06/20130606-WollongongCurrent100Light.srp
+2013-06/20130606-WollongongCurrent35Light.csv
+2013-06/20130606-WollongongCurrent35Light.srp
+2013-06/20130606-ZaragozaCurrent100Light.csv
+2013-06/20130606-ZaragozaCurrent100Light.srp
+\\
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengLight.png}
+  \end{center}
+  \caption{Light}
+  \label{fig:20130606-light}
+\end{figure}
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengRHs.png}
+  \end{center}
+  \caption{RH}
+  \label{fig:20130606-RH}
+\end{figure}
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengHL-LL-ratio.png}
+  \end{center}
+  \caption{Light Ratio (WollongongCurrent100Light / WollongongCurrent35Light)}
+  \label{fig:20130606-lightratio}
+\end{figure}
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{./2013-06/20130606-KengTemps.png}
+  \end{center}
+  \caption{Temp}
+  \label{fig:20130606-Temp}
+\end{figure}
+
+
+\section*{Spanish conditions}
+
+\subsection*{Aim}
+Create some inland spanish inland/coastal conditions for comparison.
+
+\subsection*{Method}
+See .srp files attached
+
+\subsection*{Results}
+The inland condition is too cold, so we won't use these.
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{./2013-06/20130606-SpainContrastTemp.png}
+  \end{center}
+  \caption{Spain Temps}
+  \label{fig:20130606-spaintemp}
+\end{figure}
+
 
 
 \chapter*{Fri 2013-06-21}
-  \section*{Run Degradome analyseR for Pete's poster}
-    \subsection*{Aim}
-      Run DegAnalyseR on the paresnip data
-    \subsection*{Method}
-      Paresnip output was filtered using:\\
-      \verb+R -f DegradomeAnalyseR/paresnip/paresnip_filter.R --args <files>+\\
-      The files paresnip\_1, paresnip\_2, and paresnip\_3 were filtered pairwise, and all together.
-    \subsection*{Results}
-      \DTLloaddb{20130621venn}{./2013-06/20130621-paresnip-venn.csv}
-      \DTLdisplaydb{20130621venn}
 
+\section*{Run Degradome analyseR for Pete's poster}
+
+\subsection*{Aim}
+Run DegAnalyseR on the paresnip data
+
+\subsection*{Method}
+Paresnip output was filtered using:\\
+\verb+R -f DegradomeAnalyseR/paresnip/paresnip_filter.R --args <files>+\\
+The files paresnip\_1, paresnip\_2, and paresnip\_3 were filtered pairwise, and all together.
+
+\subsection*{Results}
+\DTLloaddb{20130621venn}{./2013-06/20130621-paresnip-venn.csv}
+\DTLdisplaydb{20130621venn}
 
 
 
 \chapter*{Mon 2013-07-15}
 
 \section*{Extraction of samples from plates}
+
 \subsection*{Aim}
 Get the col, cvi and ler samples out of the plates for RNA extraction
+
 \subsection*{Method}
 \begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
   \item Plates were placed in liquid N2, and allowed to cool.
@@ -877,5 +995,6 @@ Get the col, cvi and ler samples out of the plates for RNA extraction
   \item plates were re-capped with collection tube caps, and plate mats strapped to plates w/ cotton
     thread to stop explosions.
 \end{itemize}
+
 
 \end{document}
