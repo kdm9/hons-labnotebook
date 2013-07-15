@@ -997,4 +997,28 @@ Get the col, cvi and ler samples out of the plates for RNA extraction
 \end{itemize}
 
 
+\section{Table of counts sample counts}
+
+\subsection{Counts}
+I've counted the number of samples per condition, genotype and reps to see what's missing.
+\begin{table}
+  \centering
+  \begin{tabular}{ll|ccc|}
+          &        & Col & Cvi & Ler \\
+    \hline
+    0h    & Fl Ch2 &  2  &  2  &  2\\
+          & Su Ch4 &  1  &  2  &  1\\
+          & Ex Ch5 &  3  &  1  &  1\\
+    \hline
+    1h HL & Fl Ch2 &  2  &  2  &  3\\
+          & Su Ch4 &  2  &  1  &  2\\
+          & Ex Ch5 &  3  &  3  &  4\\
+  \end{tabular}
+  \caption{Samples for each genotype}
+  \label{tab:2013-07-15-samplecounts}
+\end{table}
+See also attached files:\\
+20130712-harvestPlateGenotypeLayouts.ods   \verb+f04bb7426b9d7e9048ba5757811e6ec4+\\
+20130714-sampleGenotypeTreatmentCounts.ods \verb+deca19773a3f8c626763a466fbbfd7d6+\\
+
 \end{document}
