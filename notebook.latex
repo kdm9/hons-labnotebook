@@ -861,4 +861,21 @@ python spliceSolarCalc.py -o KMTemora2012Sep01_Intermittent2hLL1hHL.csv \
       \DTLdisplaydb{20130621venn}
 
 
+
+
+\chapter*{Mon 2013-07-15}
+
+\section*{Extraction of samples from plates}
+\subsection*{Aim}
+Get the col, cvi and ler samples out of the plates for RNA extraction
+\subsection*{Method}
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Plates were placed in liquid N2, and allowed to cool.
+  \item Qiagen collection tube caps were used to close the plates
+  \item individual caps were cut away and sample disrupted w/ a ln2 frozen p1000 tip
+  \item contents were emptied into pre labeled and pre ln2 frozen eppies (normal 1.7ml ones)
+  \item plates were re-capped with collection tube caps, and plate mats strapped to plates w/ cotton
+    thread to stop explosions.
+\end{itemize}
+
 \end{document}
