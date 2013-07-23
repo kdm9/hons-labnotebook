@@ -1025,4 +1025,18 @@ See also attached files:\\
 
 
 
+\chapter*{Tue 2013-07-16}
+
+\section*{Samples taken from plates}
+
+\subsection*{Aim}
+Summary of all samples taken from plates
+
+\subsection*{Results}
+The genotype, plate and position of samples taken are:
+\DTLloaddb{20130716qPCRsamples}{2013-07/20130716-qPCRSamplesFromPlates.csv}
+\DTLdisplaydb{20130716qPCRsamples}
+
+
+
 \end{document}
