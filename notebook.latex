@@ -1039,4 +1039,19 @@ The genotype, plate and position of samples taken are:
 
 
 
+\chapter*{Wed 2013-07-17}
+
+\section*{Add match between plates and chamber layouts}
+
+\subsection*{Method}
+Used the script \verb+2013-07/20130717-matchPlatesToChambers.py+
+
+\subsection*{Results}
+Resulted in the following layout (2013-07/20130717-plateChamberPositions.csv)
+
+\DTLloaddb{20130717plateMatch}{2013-07/20130717-plateChamberPositions.csv}
+\DTLdisplaydb{20130717plateMatch}
+
+
+
 \end{document}
