@@ -1054,4 +1054,29 @@ Resulted in the following layout (2013-07/20130717-plateChamberPositions.csv)
 
 
 
+\chapter*{Fri 2013-07-19}
+
+\section*{Tissuelyse and get samples ready for RNA Extractions}
+
+\subsection*{Aim}
+Prepare tissue samples for RNAseq Protocol
+
+\subsection*{Method}
+Samples had been either collected into 1.7mL or 2mL eppies, or moved from plates into 1.7mL eppies.
+All tubes contained one ball bearing, may have been 1 tube with 2.
+
+Tissuelyser protocol:
+\begin{itemize}
+  \item Cool 2 tissuelyser lid/block/base assemblies by submerging in LN2
+  \item Remove samples, place in floating rack on LN2
+  \item Working quickly, add sample into the cold white block
+  \item Add the lid/base to the block, and put it in the tissuelyser. (make sure it's balanced)
+  \item Run at 25Hz for 1 minute, rapidly disassemble, and place back in LN2.
+  \item inspect the tubes. Good grinds should be light green in colour and have no chunks. If
+    required, re-run for a second minute.
+\end{itemize}
+
+\subsection*{Results}
+All but 3 of the grinds were great the first time. These three were accebtable after a second grind.
+
 \end{document}
