@@ -1032,6 +1032,15 @@ See also attached files:\\
 \subsection*{Aim}
 Summary of all samples taken from plates
 
+\subsection*{Method}
+Plates were removed from the -80, and placed on tip racks in LN2, so the bottom $\approx$ 2cm of the
+plate was in LN2. The plate mats were removed, and Qiagen collection tube caps were used to cover
+the plates (do this fast, they become rigid at low temps). Then, single caps were excised with a
+razer, and tissue disrupted by poking with a P1000 tip which had been pre-cooled in LN2. Then, a
+labeled and pre-cooled eppie was inverted over the plate. Carefully, the plate and eppie were
+inverted together, and the bulk of the sample falls into the eppie. Tubes were labelled with their
+plate layout if they came from plates, otherwise their original label was kept.
+
 \subsection*{Results}
 The genotype, plate and position of samples taken are:
 \DTLloaddb{20130716qPCRsamples}{2013-07/20130716-qPCRSamplesFromPlates.csv}
