@@ -1096,6 +1096,11 @@ Tubes were labeled with a new numbering scheme, according to the table below.
 \DTLloaddb{20130719rnaSampleTable}{2013-07/20130719-rnaSamples.csv}
 \DTLdisplaydb{20130719rnaSampleTable}
 
+The mapping of plate samples to chamber positions is given below:
+
+\DTLloaddb{20130719-plateChamberPositions}{2013-07/20130719-plateChamberPositions.csv}
+\DTLdisplaydb{20130719-plateChamberPositions}
+
 
 
 \chapter*{Sun 2013-07-21}
