@@ -1132,4 +1132,51 @@ Tubes were left in -80, just labeled with 1-18, as described on Fri 2013-07-19
 All went as exepected. A couple of samples had a small ammount of chunky bits of leaf, but all
 samples had plenty of powdery sample.
 
+
+
+\chapter*{Mon 2013-07-22}
+
+\section*{Finish Millar Lab RNA extraction protocol}
+
+\subsection*{Aim}
+Get total nucleic acids from Col tissues
+
+\subsection*{Method}
+Following on with samples from yesterday.
+
+\begin{enumerate}
+  \item Take sample from -20, and immediately centrifuge for 20 minutes at 4C, max speed ($\approx$
+    20000 rcf)
+  \item Remove \supn. Take great care not to dislodge pellet. Pellet should be pinkish white.
+  \item Add 1mL 75\% Ethanol, invert tube 10X to wash pellet. Spin 7500 rcf 5 min at RT. (Rob is
+    adament that the 7500 rcf helps to keep pellet intact)
+  \item Pippette off \supn, pulse spin, remove remaining \supn w/ 10uL XL tips.
+  \item Air dry at RT for 5 minutes. Pellet should go a translucent pinky-white colour.
+  \item Resuspend in 50uL RNAse free 10 mM Tris, incubate 5 min at RT to dissolve.
+\end{enumerate}
+\subsection*{Results}
+Samples were eluted in low-bind tubes labeled ``TNA'' with the chamber coordinate, sample number
+(see Fri 2013-07-19) and date.
+
+
+\section*{Quantify RNA samples}
+
+\subsection*{Aim}
+Quantify RNA samples made this morning
+
+\subsection*{Method}
+\begin{enumerate}
+  \item Initialise nanodrop with 2 \ul water
+  \item Zero with 10 mM Tris.
+  \item Record samples, using 2 \ul of each
+\end{enumerate}
+
+\subsection*{Results}
+RNA samples had concentations as shown in the below table. Pete's 10nm tris was measured because he
+eluted samples 13-18. The v. low reading shows there's little difference between the two tris
+samples.
+
+\DTLloaddb{20130722-RNAseqRNAsamplesQuant}{2013-07/20130722-RNAseqRNAsamplesQuant.csv}
+\DTLdisplaydb{20130722-RNAseqRNAsamplesQuant}
+
 \end{document}
