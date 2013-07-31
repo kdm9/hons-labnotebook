@@ -1096,4 +1096,40 @@ Tubes were labeled with a new numbering scheme, according to the table below.
 \DTLloaddb{20130719rnaSampleTable}{2013-07/20130719-rnaSamples.csv}
 \DTLdisplaydb{20130719rnaSampleTable}
 
+
+
+\chapter*{Sun 2013-07-21}
+
+\section*{RNA extraction for RNAseq (Col) samples}
+
+\subsection*{Aim}
+Extract total nucleic acids with trizol with the milllar lab protocol
+
+\subsection*{Method}
+The ``Millar Lab'' trizol protocol was used to extract total nuceleic acids:
+\begin{enumerate}
+  \item Take ground tissue from -80. Keep in floating rack on LN2 until just about to add trizol.
+    (samples ground Fri 2013-07-19)
+  \item Working quickly in fume cupboard, add 1mL of trizol to each sample, leave in eppie rack once
+    added.
+  \item Shake vigouroursly by hand until the tissue sample is homogenised with trizol. Should go
+    dark greeny-brown.
+  \item Add 200 uL chloroform, shake by hand for $\approx$ 15 sec. Soln. goes cloudy.
+  \item Leave for 3 minutes at RT
+  \item Spin at 14000 rcf for 10 min in 4C room. Carefully remove tube from centriguge and bring
+    back to fume cupboard.
+  \item Working carefully, take most of the aqueous phase (upper, clear one). There should be
+    $\approx$ 500-600 uL. I used a P1000 set to 550uL in the first step. Transfer this to a Low-bind
+    1.5mL eppie.
+  \item Repeat the chloroform extraction (steps 6-7). Expect $\approx$ 500 uL aqueous layer, so use
+    P1000 set to $\approx$ 450uL.
+  \item Add 500 uL ICE COLD 100\% isopropanol. Mix well by inverting ($\approx$ 20X).
+  \item Incubate at -20C for at least 12h/Overnight. End of day 1
+\end{enumerate}
+
+\subsection*{Results}
+Tubes were left in -80, just labeled with 1-18, as described on Fri 2013-07-19
+All went as exepected. A couple of samples had a small ammount of chunky bits of leaf, but all
+samples had plenty of powdery sample.
+
 \end{document}
