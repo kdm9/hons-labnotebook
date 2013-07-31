@@ -12,6 +12,10 @@
 
 \begin{document}
 
+\newcommand{\supn}{supernatant}
+\newcommand{\ul}{$\mu \, L$}
+
+
 \setlength{\parindent}{0cm}
 
 \begin{titlepage}
