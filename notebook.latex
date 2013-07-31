@@ -1091,5 +1091,9 @@ Tissuelyser protocol:
 
 \subsection*{Results}
 All but 3 of the grinds were great the first time. These three were accebtable after a second grind.
+Tubes were labeled with a new numbering scheme, according to the table below.
+
+\DTLloaddb{20130719rnaSampleTable}{2013-07/20130719-rnaSamples.csv}
+\DTLdisplaydb{20130719rnaSampleTable}
 
 \end{document}
