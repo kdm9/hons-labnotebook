@@ -1202,7 +1202,8 @@ Samples were diluted with 10 mM Tris, according to the following table.
 
 Due to operator error, the following misdilutions were made.
 
-\DTLloaddb{20130723-RNASampleDilutions}{2013-07/20130723-RNASampleMisDilutions.csv}
-\DTLdisplaydb{20130723-RNASampleDilutions}
+\DTLloaddb{20130723-RNASampleMisDilutions}{2013-07/20130723-RNASampleMisDilutions.csv}
+\DTLdisplaydb{20130723-RNASampleMisDilutions}
+
 
 \end{document}
