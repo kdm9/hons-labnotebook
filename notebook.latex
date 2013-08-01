@@ -1206,4 +1206,53 @@ Due to operator error, the following misdilutions were made.
 \DTLdisplaydb{20130723-RNASampleMisDilutions}
 
 
+\section*{Bioanalyser}
+
+\subsection*{Aim}
+Look at concentration and qualtiy of extracted RNA.
+
+\subsection*{Method}
+Follow standard Plant RNA Nano chip protocol, except:
+
+For chip 2 (samples 13-22, analysis/file name KMCol-13-18-rob), the ladder may have been added
+twice, and it is possible that 9 \ul of the gel matrix was added to each sample.
+
+\subsection*{Results}
+
+See attachements below, and following table and gel images.
+
+\DTLloaddb{20130723-bioanlayserConcs}{./2013-07/20130723-BioanalyserConcs.csv}
+\DTLdisplaydb{20130723-bioanlayserConcs}
+
+\begin{figure}[h!]
+  \begin{center}
+    \includegraphics{./2013-07/20130723-KMHonsCol-1-12-gelimg.jpg}
+  \end{center}
+  \caption{Digital Gel image for samples 1-12 (first chip)}
+  \label{fig:1307-KMHonsCol-1-12-gelimg}
+\end{figure}
+
+\begin{figure}[h!]
+  \begin{center}
+    \includegraphics{./2013-07/20130723-KMCol-13-18-rob-gelimg.jpg}
+  \end{center}
+  \caption{Digital Gel for samples 13-18 and robs samples 19-22. This is chip 2 }
+  \label{fig:1307-KMCol-13-18-rob-gelimg}
+\end{figure}
+
+Samples are more or less all OK, but the quantities shown by chip 2 (KMCol-13-18-rob) were on the
+whole $\approx$ half that of chip 1. As discusses in Methods, this may be because of pippetting
+errors. Despite this, we will just use these readings for future dilutions, provided they are
+concordant with some nanodrops I'll do tomorrow.
+
+\subsection*{Attachments}
+\begin{itemize}
+  \item \texttt{./2013-07/20130723-KMCol-13-18-rob.htmlreport.tar.bz2}
+  \item \texttt{./2013-07/20130723-KMCol-13-18-rob-BioanalyserTable.csv}
+  \item \texttt{./2013-07/20130723-KMHonsCol-1-12.htmlreport.tar.bz2}
+  \item \texttt{./2013-07/20130723-KMHonsCol-1-12-BioanalyserTable.csv}
+\end{itemize}
+
+
+
 \end{document}
