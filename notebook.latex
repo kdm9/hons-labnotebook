@@ -1184,4 +1184,25 @@ samples.
 \DTLloaddb{20130722-RNAseqRNAsamplesQuant}{2013-07/20130722-RNAseqRNAsamplesQuant.csv}
 \DTLdisplaydb{20130722-RNAseqRNAsamplesQuant}
 
+
+
+\chapter*{Tue 2013-07-23}
+
+
+\section*{Dilution of RNA samples}
+
+\subsection*{Aim}
+Dilute RNA down to 200 ng/\ul
+
+\subsection*{Method}
+Samples were diluted with 10 mM Tris, according to the following table.
+
+\DTLloaddb{20130723-RNASampleDilutions}{2013-07/20130723-RNASampleDilutions.csv}
+\DTLdisplaydb{20130723-RNASampleDilutions}
+
+Due to operator error, the following misdilutions were made.
+
+\DTLloaddb{20130723-RNASampleDilutions}{2013-07/20130723-RNASampleMisDilutions.csv}
+\DTLdisplaydb{20130723-RNASampleDilutions}
+
 \end{document}
