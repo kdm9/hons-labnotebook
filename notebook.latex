@@ -1255,4 +1255,28 @@ concordant with some nanodrops I'll do tomorrow.
 
 
 
+\chapter*{Wed 2013-07-24}
+
+
+\section*{Re-quantification of samples with nanodrop}
+
+\subsection*{Aim}
+Resolve weird quantitification the bioanalyser gave
+
+\subsection*{Method}
+Nanodrop samples, blanking with water and zeroing with 10 mM tris. I accidentally used the ``DNA''
+analysis, not the ``RNA'' one.
+
+\subsection*{Results}
+Samples quantified as per following table:
+
+\DTLloaddb{20130724-DiluteRNASeqSamplesNanodrop}{2013-07/20130724-DiluteRNASeqSamplesNanodrop.csv}
+\DTLdisplaydb{20130724-DiluteRNASeqSamplesNanodrop}
+
+This makes no sense! There seems to be little correlation with the bioanalyser result. However, it
+could be that the samples in Chip 1 were added twice (except the quanitites are not exactly half
+across the whole chip). Given the nanodrop was on the wrong setting, and that the bioanalyser is
+both more accurate and more sensitve, We are going to just trust the bioanalyser.
+
+
 \end{document}
