@@ -1279,4 +1279,19 @@ across the whole chip). Given the nanodrop was on the wrong setting, and that th
 both more accurate and more sensitve, We are going to just trust the bioanalyser.
 
 
+\section*{Final dilution of RNA samples to 80ng/\ul}
+
+\subsection*{Aim}
+Dilute samples to the quantity required to enter the Truseq2 library prep protocol.
+
+\subsection*{Method}
+Dilute according to the following table with 10 mM tris.
+
+\DTLloaddb{20130724-RNASampleFinalDilution}{2013-07/20130724-RNASampleFinalDilution.csv}
+\DTLdisplaydb{20130724-RNASampleFinalDilution}
+
+For values <20, a P10 was used, with half at a time if necessacary. A P20 was used for values
+between 20 and 40, half at a time, and for values over 40, a P200 was used.
+
+
 \end{document}
