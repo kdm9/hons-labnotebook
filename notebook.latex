@@ -1363,4 +1363,94 @@ Two plates of fragmented RNA in the -80 \degc freezer, on the lowest of Pete's s
 Pete's halves respectively.
 
 
+
+\chapter*{Fri 2013-07-26}
+
+
+\section*{RNAseq Libaries - Illumina Truseq kits}
+
+\subsection*{Aim}
+Do day 2 of the truseq protocol
+
+\subsection*{Method}
+Did second day of the Truseq protocol. This started again from samples from plates as described
+yesterday, Thu 2013-07-25. We began from Perform End Repair, page 54.
+The following alterations were made to the Illumina TruSeq v2 RNAseq protocol, Manual Part \#
+15026495 revision D September 2012:
+
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item p55, Make IMP: use of End Repar following protocol procedure.
+  \item p59, use A-Tailing control, folloing protocol.
+  \item p62 Add LIG: use ligation control, following protocol.
+  \item p62. during Add LIG steps 4-7, add each reagent to the side of the tube independently, then
+    spin down plate for 5-8 seconds, and pippette to mix.
+  \item p63, Add LIG. Add Stop Ligation Buffer to the side of each tube, then spin down and pipette
+    to mix. This is to keep the ligation running for the same time.
+  \item p63, Clean Up ALP: due to a loose tip, samples 6 and 10 received less ampure. I tried to top
+    them up to roughly the same level but may still have been different.
+\end{itemize}
+
+Then, I did a pilot PCR. This is a half reaction (12.5 \ul MM, 2.5 \ul sample) of those on pg 67.
+These samples were run on the multina, as per below protocol. Samples 1 and 13 were run for 10
+cycles, and 2 and 19 were run for 14 cycles. For this and ALL FUTURE PCRs, the 60 \degc annealing
+time was extended to 45 seconds.
+
+
+To run the multina:
+\begin{enumerate}
+  \item Enter samples in software, noting the required ammount of sep. Bf.
+  \item Make seperation buffer by adding 1 \ul 1:99 diluted Sybr Gold to 100 \ul of the
+    seperation buffer. (I normally make 500 \ul, so 5 \ul diluted Sybr + 495 \ul of sep buffer)
+  \item Add 4 \ul of marker solution to an unskirted PCR plate in as many wells as you have
+    samples.
+  \item Add 2 \ul of sample to marker solution
+  \item Spin, flick/gentle vortex to mix, re-spin (10 sec spins).
+\end{enumerate}
+
+\subsection*{Results}
+Several plates were saved:
+\begin{itemize}
+  \item Two plates of cleaned A-tailed RNA, in the -20 \degc freezer.
+  \item Post ligation, pre clean-up, plate was labeled Pre-PCR clean ligated sample, and stored at -20 \degc.
+  \item After ligation clean up, plates were joined, and each well labelled.
+\end{itemize}
+
+PCR results: Samples are described in table \ref{tab:20130726-sampleTable}. It looks like we have
+libraries, as you can see in Figures \ref{fig:20130726-PilotPCRAllGels} and
+\ref{fig:20130726-PilotPCRAllElectrophoretogramsSep}, but 10 cycles is too few, but 14 cycles is too
+many. We will try 12 cycles on all samples tomorrow.
+
+\begin{table}[h!]
+  \centering
+  \begin{tabular}{cc}
+    \hline
+    A1 & Sample 1, 10 cyc \\
+    B1 & Sample 13, 10 cyc \\
+    C1 & Sample 2, 14 cyc \\
+    D1 & Sample 19, 14 cyc \\
+    \hline
+  \end{tabular}
+  \caption{Samples}
+  \label{tab:20130726-sampleTable}
+\end{table}
+
+\begin{figure}[h!]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{2013-07/20130726-PilotPCRAllElectrophoretogramsSep.jpg}
+  \end{center}
+  \caption{Electrophoretograms}
+  \label{fig:20130726-PilotPCRAllElectrophoretogramsSep}
+\end{figure}
+
+
+\begin{figure}[h!]
+  \begin{center}
+    \includegraphics{2013-07/20130726-PilotPCRAllGels.jpg}
+  \end{center}
+  \caption{Gels}
+  \label{fig:20130726-PilotPCRAllGels}
+\end{figure}
+
+
+
 \end{document}
