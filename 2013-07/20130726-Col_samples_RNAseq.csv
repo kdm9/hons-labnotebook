@@ -1,0 +1,19 @@
+conditions	treatment	sample	chamber	tray_pos	paired	notes	Sample ID	ng/ul	260/280	260/230	yield ug (in 50ul)	ul RNA 0.2 ng/ul	ul H2O to 100
+Excess	1hHL	Col	5	9D1	yes	4H10	18	524	2.15	2.31	26	19.10	30.9
+Excess	0HR	Col	5	4E3	yes		14	740	2.19	2.53	37	13.51	36.5
+Sufficient	0HR	Col	4	5A1	yes		2	775	2.2	2.44	39	12.90	37.1
+Sufficient	1hHL	Col	4	2D4	no		6	864	2.22	2.51	43	11.58	38.4
+Sufficient	0HR	Col	4	9D1	no		3	986	2.18	2.4	49	10.14	39.9
+Fluctuating	0HR	Col	2	8B4	yes		8	1031	2.19	2.25	52	9.70	40.3
+Excess	1hHL	Col	5	13B1	yes		16	1138	2.2	2.49	57	8.79	41.2
+Fluctuating	1hHL	Col	2	6D4	yes		12	1159	2.05	1.74	58	8.63	41.4
+Sufficient	1hHL	Col	4	5A1	yes		5	1176	2.2	2.44	59	8.50	41.5
+Fluctuating	1hHL	Col	2	10A3	yes	8B9	10	1380	2.18	1.86	69	7.25	42.8
+Fluctuating	0HR	Col	2	10A3	yes		7	1392	2.19	2.38	70	7.19	42.8
+Fluctuating	1hHL	Col	2	8B4	yes		11	1437	2.18	1.16	72	6.96	43.0
+Sufficient	0HR	Col	4	13B1	yes		1	1645	2.17	2.34	82	6.08	43.9
+Excess	0HR	Col	5	13B1	yes		13	1766	2.18	2.38	88	5.66	44.3
+Excess	1hHL	Col	5	4E3	yes		17	1783	2.17	2.38	89	5.61	44.4
+Sufficient	1hHL	Col	4	13B1	yes		4	2015	2.16	2.36	101	4.96	45.0
+Fluctuating	0HR	Col	2	6D4	yes		9	2526	2.14	2.32	126	3.96	46.0
+Excess	0HR	Col	5	9D1	yes		15	2758	2.06	1.93	138	3.63	46.4

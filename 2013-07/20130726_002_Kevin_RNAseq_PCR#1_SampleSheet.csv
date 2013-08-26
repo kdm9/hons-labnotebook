@@ -1,0 +1,5 @@
+Sample No.,Well,Date Analysis Started,Chip Position,Chip ID,Chip Usage Count,Sample Name,Comment,Type,Separation Buffer,Marker Mixing Mode,Dye,Number of Errors,Number of Warnings,Qty. of Data
+2,A1,26/07/2013 6:21:53 PM,2,W6436,2396,10 cycles - #1,,Sample,DNA-1000,Premix,SYBR® Gold,0,0,9005
+3,B1,26/07/2013 6:26:12 PM,2,W6436,2397,10 cycles - #13,,Sample,DNA-1000,Premix,SYBR® Gold,0,0,9005
+4,C1,26/07/2013 6:30:31 PM,2,W6436,2398,14 cycles - #2,,Sample,DNA-1000,Premix,SYBR® Gold,0,0,9005
+5,D1,26/07/2013 6:34:50 PM,2,W6436,2399,14 cycles - #19,,Sample,DNA-1000,Premix,SYBR® Gold,0,0,9005
