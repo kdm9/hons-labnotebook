@@ -3,6 +3,7 @@
 *.idx
 *.aux
 *.log
+*.out
 *.tar.bz2
 *.tar.bz
 *.tar.gz
