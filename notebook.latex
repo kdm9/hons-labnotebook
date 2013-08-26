@@ -1321,4 +1321,46 @@ For values <20, a P10 was used, with half at a time if necessacary. A P20 was us
 between 20 and 40, half at a time, and for values over 40, a P200 was used.
 
 
+
+\chapter*{Thu 2013-07-25}
+
+
+\section*{RNAseq Libraies - Trueseq2}
+
+\subsection*{Aim}
+Do the first day of the truseq 2 library prep protocol.
+
+\subsection*{Method}
+Following the Illumina TruSeq v2 RNAseq protocol, Manual Part \# 15026495 revision D September 2012.
+We used the Low Sample protocol, starting page 39. The following alterations were made to the
+protocol.
+
+\begin{itemize} \itemsep1pt \parskip0pt \parsep0pt
+  \item Page 45: ``Elution 2 - Frag - Prime'' PCR template changed from 94 \degc, 8 minutes to 94
+    \degc, 7 minutes.
+  \item Page 45, Make RBP: RNA input concentration was 80 ng/\ul
+  \item Page 47, Make RFP: Step 4, place on magnetic stand until clear, not necessacrily 5 minutes.
+  \item Page 47, Incubate RFP: After step 2, spin plate for 8-10s at 2000 rpm.
+  \item Page 48, Preparation: 1st Strand PCR program. Incubate for 50 minutes at 50 \degc, not
+    42 \degc, as were using superscript III
+  \item Page 49, Make CDP: Step 5, add SuperScript III in place of SS2
+  \item Page 53, Purify CDP: use double tip method to remove supernant in bead washes. To do so, use
+    a P200 filter tip jammed into a P10 non-filter tip. This allows you to suck up up to 200 \ul
+    though a small tip, which helps avoid beads.
+  \item Page 53, Purify CDP: For this and ALL FUTURE BEAD WASHES: only add 180 \ul of EtOH to wash
+    beads, but suck up 200 \ul when removing \supn. When separating beads from solution, don't
+    necessacarily stick by the times in the protocol, as it often takes only 30 sec to a minute to
+    seperate, instead of 5 minutes. Likewise, resuspend beads at the first visible sign of cracking
+    of the bead pellet, rather than waiting $\approx$ 15 minutes, as the protocol says to do.
+  \item Page 53, Purify CDP: Stop for today at the end of page 53, keeping samples at -20 overnight
+    in seperate plates for samples 1-12 and 13-22, with each tube labelled according to it's sample
+    number.
+\end{itemize}
+
+\subsection*{Results}
+
+Two plates of fragmented RNA in the -80 \degc freezer, on the lowest of Pete's shelves, for my and
+Pete's halves respectively.
+
+
 \end{document}
